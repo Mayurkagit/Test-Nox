@@ -1,0 +1,454 @@
+[
+  {
+    "id": "10",
+    "label": "ICICI Bank"
+  },
+  {
+    "id": "11",
+    "label": "Yes Bank"
+  },
+  {
+    "id": "12",
+    "label": "HDFC Bank"
+  },
+  {
+    "id": "13",
+    "label": "Axis Bank"
+  },
+  {
+    "id": "14",
+    "label": "IDBI Bank"
+  },
+  {
+    "id": "15",
+    "label": "Kotak Bank"
+  },
+  {
+    "id": "16",
+    "label": "CBI Bank"
+  },
+  {
+    "id": "17",
+    "label": "State Bank of India"
+  },
+  {
+    "id": "18",
+    "label": "Bank of Baroda"
+  },
+  {
+    "id": "19",
+    "label": "Bank of India"
+  },
+  {
+    "id": "20",
+    "label": "Punjab National Bank"
+  },
+  {
+    "id": "21",
+    "label": "Union Bank of India"
+  },
+  {
+    "id": "22",
+    "label": "SYNDICATE BANK"
+  },
+  {
+    "id": "23",
+    "label": "VIJAYA BANK"
+  },
+  {
+    "id": "24",
+    "label": "CORPORATION BANK"
+  },
+  {
+    "id": "25",
+    "label": "CANARA BANK"
+  },
+  {
+    "id": "26",
+    "label": "DENA BANK"
+  },
+  {
+    "id": "27",
+    "label": "ANDHRA BANK"
+  },
+  {
+    "id": "28",
+    "label": "STANDARD CHARTERED GRINDLAYS"
+  },
+  {
+    "id": "29",
+    "label": "INDIAN OVERSEAS BANK"
+  },
+  {
+    "id": "30",
+    "label": "BANK OF MAHARASHTRA"
+  },
+  {
+    "id": "31",
+    "label": "STATE BANK OF PATIALA"
+  },
+  {
+    "id": "32",
+    "label": "INDIAN BANK"
+  },
+  {
+    "id": "33",
+    "label": "ALLAHABAD BANK"
+  },
+  {
+    "id": "34",
+    "label": "ABN AMRO BANK"
+  },
+  {
+    "id": "35",
+    "label": "AMERICAN EXPRESS INC. BANKING"
+  },
+  {
+    "id": "36",
+    "label": "ANZ GRINDLAYS BANK"
+  },
+  {
+    "id": "37",
+    "label": "BANK OF AMERICA"
+  },
+  {
+    "id": "38",
+    "label": "BANK OF NOVA SCOTIA"
+  },
+  {
+    "id": "39",
+    "label": "BANK OF PUNJAB LTD."
+  },
+  {
+    "id": "40",
+    "label": "BANK OF RAJASTHAN LTD."
+  },
+  {
+    "id": "41",
+    "label": "BANK OF TOKYO-MITSUBHISHI LTD."
+  },
+  {
+    "id": "42",
+    "label": "BANQUE NATIONAL DE-PARIS"
+  },
+  {
+    "id": "43",
+    "label": "BARCLAYS BANK PLC."
+  },
+  {
+    "id": "44",
+    "label": "BENARAS STATE BANK LTD."
+  },
+  {
+    "id": "45",
+    "label": "BHARAT OVERSEAS BANK LTD."
+  },
+  {
+    "id": "46",
+    "label": "BOMBAY MERCANTILE CO-OP. BANK"
+  },
+  {
+    "id": "47",
+    "label": "CATHOLIC SYRIAN BANK LTD."
+  },
+  {
+    "id": "48",
+    "label": "CENTURION BANK LTD."
+  },
+  {
+    "id": "49",
+    "label": "CHINATRUST COMMERCIAL BANK"
+  },
+  {
+    "id": "50",
+    "label": "CITIBANK N.A."
+  },
+  {
+    "id": "51",
+    "label": "CITIZEN CO-OP BANK LTD (NOIDA)"
+  },
+  {
+    "id": "52",
+    "label": "CITIZEN CO-OP BANK LTD (DELHI)"
+  },
+  {
+    "id": "53",
+    "label": "CITY UNION BANK LTD."
+  },
+  {
+    "id": "54",
+    "label": "CREDIT AGRICOLE INDOSUEZ"
+  },
+  {
+    "id": "55",
+    "label": "CREDIT LYONNAIS"
+  },
+  {
+    "id": "56",
+    "label": "DELHI NAGARIK SAHAKARI BANK"
+  },
+  {
+    "id": "57",
+    "label": "DELHI STATE COOPERATIVE BANK"
+  },
+  {
+    "id": "58",
+    "label": "BANK OF MADURA LTD."
+  },
+  {
+    "id": "59",
+    "label": "DEUTSCHE BANK"
+  },
+  {
+    "id": "60",
+    "label": "DEVELOPMENT CREDIT BANK LTD."
+  },
+  {
+    "id": "61",
+    "label": "DHANLAKSHMI BANK LTD."
+  },
+  {
+    "id": "62",
+    "label": "DREDNER BANK"
+  },
+  {
+    "id": "63",
+    "label": "FERDERAL BANK LTD."
+  },
+  {
+    "id": "64",
+    "label": "GLOBAL TRUST BANK LTD."
+  },
+  {
+    "id": "65",
+    "label": "GURGAON GRAMIN BANK, GURGAON"
+  },
+  {
+    "id": "66",
+    "label": "GHAZIABAD URBAN CO-OP BANK LTD"
+  },
+  {
+    "id": "67",
+    "label": "HSBC"
+  },
+  {
+    "id": "68",
+    "label": "H.P. STATE CO-OPERATIVE BANK"
+  },
+  {
+    "id": "69",
+    "label": "INDRAPRASTHA SAHKARI BANK LTD."
+  },
+  {
+    "id": "70",
+    "label": "INDUSIND BANK LTD."
+  },
+  {
+    "id": "71",
+    "label": "ING BANK"
+  },
+  {
+    "id": "72",
+    "label": "JAIN CO-OPERATIVE BANK LTD."
+  },
+  {
+    "id": "73",
+    "label": "JAMIA CO-OPERATIVE BANK LTD."
+  },
+  {
+    "id": "74",
+    "label": "JANTA CO-OPERATIVE BANK LTD."
+  },
+  {
+    "id": "75",
+    "label": "JAMMU & KASHMIR BANK LTD."
+  },
+  {
+    "id": "76",
+    "label": "KANGRA CO-OPERATIVE BANK LTD."
+  },
+  {
+    "id": "77",
+    "label": "KARNATAKA BANK LTD."
+  },
+  {
+    "id": "78",
+    "label": "KARUR VYSYA BANK LTD."
+  },
+  {
+    "id": "79",
+    "label": "KHATTRI CO-OPERATIVE URBAN BAN"
+  },
+  {
+    "id": "80",
+    "label": "LAKSHMI VILAS BANK LTD."
+  },
+  {
+    "id": "81",
+    "label": "LORD KRISHNA BANK LTD."
+  },
+  {
+    "id": "82",
+    "label": "MASHREQ BANK PSC"
+  },
+  {
+    "id": "83",
+    "label": "NAINITAL BANK LTD."
+  },
+  {
+    "id": "84",
+    "label": "NEDUNGADI BANK LTD."
+  },
+  {
+    "id": "85",
+    "label": "ORIENTAL BANK OF COMMERCE"
+  },
+  {
+    "id": "86",
+    "label": "PUNJAB & SIND BANK"
+  },
+  {
+    "id": "87",
+    "label": "RAMGARHIA CO-OPERATIVE BANK LT"
+  },
+  {
+    "id": "88",
+    "label": "SAKURA BANK LTD."
+  },
+  {
+    "id": "89",
+    "label": "SANGLI BANK LTD."
+  },
+  {
+    "id": "90",
+    "label": "SANWA BANK LTD."
+  },
+  {
+    "id": "91",
+    "label": "SOCIETE GENERAL"
+  },
+  {
+    "id": "92",
+    "label": "SOUTH INDIAN BANK LTD."
+  },
+  {
+    "id": "93",
+    "label": "STANDARD CHARTERED BANK"
+  },
+  {
+    "id": "94",
+    "label": "STATE BANK OF BIKANER & JAIPUR"
+  },
+  {
+    "id": "95",
+    "label": "STATE BANK OF HYDERABAD"
+  },
+  {
+    "id": "96",
+    "label": "STATE BANK OF INDORE"
+  },
+  {
+    "id": "97",
+    "label": "STATE BANK OF MYSORE"
+  },
+  {
+    "id": "98",
+    "label": "STATE BANK OF SAURASHTRA"
+  },
+  {
+    "id": "99",
+    "label": "STATE BANK OF TRAVANCORE"
+  },
+  {
+    "id": "100",
+    "label": "TAMILNAD MERCANTILE BANK LTD."
+  },
+  {
+    "id": "101",
+    "label": "TIMES BANK LTD."
+  },
+  {
+    "id": "102",
+    "label": "UCO BANK"
+  },
+  {
+    "id": "103",
+    "label": "UNITED BANK OF INDIA"
+  },
+  {
+    "id": "104",
+    "label": "UNION WESTERN BANK LTD."
+  },
+  {
+    "id": "105",
+    "label": "UTI BANK LTD."
+  },
+  {
+    "id": "106",
+    "label": "VAISH CO-OPERATIVE ADARSH BANK"
+  },
+  {
+    "id": "107",
+    "label": "VAISH CO-OPERATIVE COMMERCIAL"
+  },
+  {
+    "id": "108",
+    "label": "VAISH CO-OP. NEW BANK LTD."
+  },
+  {
+    "id": "109",
+    "label": "VYSYA BANK LTD."
+  },
+  {
+    "id": "110",
+    "label": "HONGKONG & SHANGHAI BKG. CO"
+  },
+  {
+    "id": "111",
+    "label": "GENERAL POST OFFICE"
+  },
+  {
+    "id": "112",
+    "label": "POST OFFICE SAVING BANK"
+  },
+  {
+    "id": "113",
+    "label": "PUNJAB AND MAHARASTRA CO. BANK"
+  },
+  {
+    "id": "114",
+    "label": "AG BANK"
+  },
+  {
+    "id": "115",
+    "label": "BHAGAYODAY BANK"
+  },
+  {
+    "id": "116",
+    "label": "NAGRIC BANK"
+  },
+  {
+    "id": "117",
+    "label": "IDFC FIRST BANK"
+  },
+  {
+    "id": "118",
+    "label": "RATNAKAR BANK LTD"
+  },
+  {
+    "id": "135",
+    "label": "EQUITAS"
+  },
+  {
+    "id": "136",
+    "label": "BANDHAN"
+  },
+  {
+    "id": "137",
+    "label": "AU SMALL FINANCE"
+  },
+  {
+    "id": "138",
+    "label": "INDIAN BANK"
+  }
+]

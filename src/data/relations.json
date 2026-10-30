@@ -1,0 +1,16 @@
+[
+  { "id": "1", "label": "पिता Father", "english": "Father", "hindi": "पिता" },
+  { "id": "2", "label": "मां Mother", "english": "Mother", "hindi": "मां" },
+  { "id": "3", "label": "पति Husband", "english": "Husband", "hindi": "पति" },
+  { "id": "4", "label": "पत्नी Wife", "english": "Wife", "hindi": "पत्नी" },
+  { "id": "5", "label": "पुत्र Son", "english": "Son", "hindi": "पुत्र" },
+  { "id": "6", "label": "पुत्री Daughter", "english": "Daughter", "hindi": "पुत्री" },
+  { "id": "7", "label": "भाई Brother", "english": "Brother", "hindi": "भाई" },
+  { "id": "8", "label": "बहन Sister", "english": "Sister", "hindi": "बहन" },
+  { "id": "9", "label": "दामाद Son in law", "english": "Son in law", "hindi": "दामाद" },
+  { "id": "10", "label": "बहू Daughter in law", "english": "Daughter in law", "hindi": "बहू" },
+  { "id": "11", "label": "पोता Grand Son", "english": "Grand Son", "hindi": "पोता" },
+  { "id": "12", "label": "पोती Grand Daughter", "english": "Grand Daughter", "hindi": "पोती" },
+  { "id": "13", "label": "पोते की पत्नी Wife of Grand Son", "english": "Wife of Grand Son", "hindi": "पोते की पत्नी" },
+  { "id": "14", "label": "पोती का पति Husband of Grand Daughter", "english": "Husband of Grand Daughter", "hindi": "पोती का पति" }
+]

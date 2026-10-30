@@ -1,0 +1,11 @@
+[
+  { "id": "2", "label": "General Category" },
+  { "id": "PROFESSIONAL", "label": "Professional" },
+  { "id": "8", "label": "Persons with Disability(PwD)" },
+  { "id": "3", "label": "Schedule Caste" },
+  { "id": "4", "label": "Schedule Tribe" },
+  { "id": "14", "label": "Women" },
+  { "id": "7", "label": "Ex-servicemen" },
+  { "id": "1", "label": "War Widow/Next of Kin" },
+  { "id": "9", "label": "GOVT. EMPLOYEE" }
+]
