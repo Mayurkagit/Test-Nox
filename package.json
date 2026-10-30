@@ -1,0 +1,117 @@
+{
+  "name": "flat-book",
+  "version": "1.0.0",
+  "description": "Flat book with Offline Database and Multi-Session Partitioning",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k \"npm run dev:vite\" \"wait-on tcp:5173 && electron .\"",
+    "dev:vite": "vite",
+    "dev:electron": "electron .",
+    "build": "vite build",
+    "start": "electron .",
+    "postinstall": "node scripts/copy-vc-runtime.cjs",
+    "package:dir": "npm run build && node scripts/copy-vc-runtime.cjs && node scripts/obfuscate.cjs && electron-builder --dir",
+    "package:exe": "npm run build && node scripts/copy-vc-runtime.cjs && node scripts/obfuscate.cjs && electron-builder --win",
+    "obfuscate": "node scripts/obfuscate.cjs"
+  },
+  "keywords": [
+    "dda",
+    "electron",
+    "automation",
+    "offline-database"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.0",
+    "concurrently": "^10.0.5",
+    "electron": "^34.3.0",
+    "electron-builder": "^26.15.3",
+    "tailwindcss": "^4.3.3",
+    "terser": "5.51.2",
+    "vite": "^8.2.2",
+    "wait-on": "^9.1.0"
+  },
+  "dependencies": {
+    "firebase": "^12.18.0",
+    "lucide-react": "^1.34.0",
+    "onnxruntime-node": "^1.29.0",
+    "onnxruntime-web": "1.29.0",
+    "pdfjs-dist": "^4.10.38",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "zustand": "^5.0.15"
+  },
+  "build": {
+    "appId": "com.northdesk.app",
+    "productName": "Northdesk",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      {
+        "from": "obf",
+        "to": ".",
+        "filter": [
+          "**/*"
+        ]
+      },
+      "payment_banks.json",
+      "models/nd_core_layer.bin",
+      "models/nd_core_layer.weights",
+      "icon.png",
+      "package.json",
+      "!**/node_modules/onnxruntime-web/dist/*.map",
+      "!**/node_modules/onnxruntime-web/dist/ort.{js,mjs}",
+      "!**/node_modules/onnxruntime-web/dist/ort.{all,webgl,webgpu,jspi,wasm,bundle,min}*",
+      "!**/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.{asyncify,jsep,jspi}.*",
+      "!**/node_modules/onnxruntime-web/lib/**",
+      "!**/node_modules/onnxruntime-web/docs/**"
+    ],
+    "asar": true,
+    "asarUnpack": [
+      "**/node_modules/onnxruntime-node/**/*",
+      "**/node_modules/onnxruntime-web/dist/ort-wasm-simd-threaded.{mjs,wasm}",
+      "models/nd_core_layer.*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        },
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "icon": "icon.png"
+    },
+    "mac": {
+      "target": [
+        {
+          "target": "dir",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ],
+      "icon": "icon.png",
+      "category": "public.app-category.productivity"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "Northdesk"
+    }
+  }
+}

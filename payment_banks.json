@@ -1,0 +1,793 @@
+{
+  "_comment": "BillDesk net-banking banks exactly as BillDesk lists them (CBI and SBI gateways, captured 2026-10-06). gateways = which DDA payment gateway offers the bank. id = BillDesk's button name attribute (top banks have none; those ids are ours). code = BillDesk logo id (bankid-XXX). legacy = old sidebar ids -> new ids.",
+  "banks": [
+    {
+      "id": "axisbankretail",
+      "name": "Axis Bank [Retail]",
+      "code": "UTI",
+      "top": true,
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "hdfcbankretail",
+      "name": "HDFC Bank [Retail]",
+      "code": "HDF",
+      "top": true,
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "icicibankretail",
+      "name": "ICICI Bank [Retail]",
+      "code": "ICI",
+      "top": true,
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "kotakbank",
+      "name": "Kotak Bank",
+      "code": "162",
+      "top": true,
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "statebankofindia",
+      "name": "State Bank of India",
+      "code": "SBI",
+      "top": true,
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "ausmallfinancebank",
+      "name": "AU Small Finance Bank",
+      "code": "AUB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "ausmallfinancebankcorporate",
+      "name": "AU Small Finance Bank [Corporate]",
+      "code": "AU2",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "axisbankcorporate",
+      "name": "Axis Bank [Corporate]",
+      "code": "AXC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bandhanbankcorporate",
+      "name": "Bandhan Bank [Corporate]",
+      "code": "BDC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bandhanbankretail",
+      "name": "Bandhan Bank [Retail]",
+      "code": "BDN",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bankofbarodacorporate",
+      "name": "Bank of Baroda [Corporate]",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bankofbarodaretail",
+      "name": "Bank of Baroda [Retail]",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bankofindiacorporate",
+      "name": "Bank of India [Corporate]",
+      "code": "BOI",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bankofindiaretail",
+      "name": "Bank of India [Retail]",
+      "code": "BIR",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bankofmaharashtra",
+      "name": "Bank of Maharashtra",
+      "code": "BOM",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "basseincatholicbank",
+      "name": "Bassein Catholic Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "bnpparibas",
+      "name": "BNP Paribas",
+      "code": "BNP",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "canarabank",
+      "name": "Canara Bank",
+      "code": "CNB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "capitalbank",
+      "name": "Capital Bank",
+      "code": "CPB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "centralbankofindia",
+      "name": "Central Bank of India",
+      "code": "CBI",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "cityunionbank",
+      "name": "City Union Bank",
+      "code": "CUB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "cosmosbank",
+      "name": "Cosmos Bank",
+      "code": "COB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "csbbankltd",
+      "name": "CSB Bank Ltd",
+      "code": "CSB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "dcbbank",
+      "name": "DCB Bank",
+      "code": "DCB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "deutschebank",
+      "name": "Deutsche Bank",
+      "code": "DBK",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "dhanlaxmibankcorporate",
+      "name": "Dhanlaxmi Bank [Corporate]",
+      "code": "DL2",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "dhanlaxmibankretail",
+      "name": "Dhanlaxmi Bank [Retail]",
+      "code": "DLB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "digibankbydbs",
+      "name": "digibank by DBS",
+      "code": "DBS",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "equitasbank",
+      "name": "Equitas Bank",
+      "code": "EQB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "esafsmallfinancebank",
+      "name": "ESAF Small Finance Bank",
+      "code": "ESF",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "federalbank",
+      "name": "Federal Bank",
+      "code": "FBK",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "hsbc",
+      "name": "HSBC",
+      "code": "HSB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "icicibankcorporate",
+      "name": "ICICI Bank [Corporate]",
+      "code": "ICO",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "idbibankcorporate",
+      "name": "IDBI Bank [Corporate]",
+      "code": "IDC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "idbibankretail",
+      "name": "IDBI Bank [Retail]",
+      "code": "IDB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "idfcfirstbanklimited",
+      "name": "IDFC First Bank Limited",
+      "code": "IDN",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "indianbank",
+      "name": "Indian Bank",
+      "code": "INB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "indianoverseasbank",
+      "name": "Indian Overseas Bank",
+      "code": "IOB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "indusindbank",
+      "name": "IndusInd Bank",
+      "code": "IDS",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "jammuandkashmirbank",
+      "name": "Jammu and Kashmir Bank",
+      "code": "JKB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "janatasahakaribank",
+      "name": "Janata Sahakari Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "kalupurbank",
+      "name": "Kalupur Bank",
+      "code": "KLB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "kalyanjanatasahakaribank",
+      "name": "Kalyan Janata Sahakari Bank",
+      "code": "KJB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "karnatakabank",
+      "name": "Karnataka Bank",
+      "code": "KBL",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "karnatakagrameenabank",
+      "name": "Karnataka Grameena Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "karurvysyabank",
+      "name": "Karur Vysya Bank",
+      "code": "KVB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "keralagraminbank",
+      "name": "Kerala Gramin Bank",
+      "code": "KGB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "maharashtragraminbank",
+      "name": "Maharashtra Gramin Bank",
+      "code": "MGB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "mehsanaurbancoopbank",
+      "name": "Mehsana Urban Co-op Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "nkgsbbank",
+      "name": "NKGSB Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "nutannagariksahakaribank",
+      "name": "Nutan Nagarik Sahakari Bank",
+      "code": "NUT",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "punjabandsindbank",
+      "name": "Punjab and Sind Bank",
+      "code": "PSB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "punjabnationalbankcorporate",
+      "name": "Punjab National Bank [Corporate]",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "punjabnationalbankretail",
+      "name": "Punjab National Bank [Retail]",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "rblbankcorporate",
+      "name": "RBL Bank [Corporate]",
+      "code": "RTC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "rblbankretail",
+      "name": "RBL Bank [Retail]",
+      "code": "RBL",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "saraswatbank",
+      "name": "Saraswat Bank",
+      "code": "SWB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "sbmbankindia",
+      "name": "SBM Bank (India)",
+      "code": "SOM",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "southindianbank",
+      "name": "South Indian Bank",
+      "code": "SIB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "standardcharteredbankretail",
+      "name": "Standard Chartered Bank [Retail]",
+      "code": "SCB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "suratbank",
+      "name": "Surat Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "sutexbank",
+      "name": "Sutex Bank",
+      "code": "SUT",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "svccooperativebankltdcorporate",
+      "name": "SVC Co-operative Bank Ltd. [Corporate]",
+      "code": "SV2",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "svccooperativebankltdretail",
+      "name": "SVC Co-operative Bank Ltd. [Retail]",
+      "code": "SVC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "tamilnadmercantilebank",
+      "name": "Tamilnad Mercantile Bank",
+      "code": "TMB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "thanebharatsahakaribank",
+      "name": "Thane Bharat Sahakari Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "theahmedabadmercantilecooperativebankltdretail",
+      "name": "The Ahmedabad Mercantile Co-operative Bank Ltd [Retail]",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "tjsbbank",
+      "name": "TJSB Bank",
+      "code": "TJB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "tnscbank",
+      "name": "TNSC Bank",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "ucobank",
+      "name": "UCO Bank",
+      "code": "UCO",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "ucobankcorporate",
+      "name": "UCO Bank [Corporate]",
+      "code": "UCC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "ujjivansmallfinancebank",
+      "name": "Ujjivan Small Finance Bank",
+      "code": "UJV",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "unionbankofindia",
+      "name": "Union Bank of India",
+      "code": "UBI",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "unionbankofindiacorporate",
+      "name": "Union Bank of India [Corporate]",
+      "code": "UB2",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "utkarshbank",
+      "name": "Utkarsh Bank",
+      "code": "UTK",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "varachhabank",
+      "name": "Varachha Bank",
+      "code": "VRB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "yesbankcorporate",
+      "name": "Yes Bank [Corporate]",
+      "code": "YBC",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "yesbankretail",
+      "name": "Yes Bank [Retail]",
+      "code": "YBK",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "yesbusiness",
+      "name": "YES Business",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "zoroastriancooperativebankltd",
+      "name": "Zoroastrian Co-operative Bank Ltd",
+      "code": "ZOB",
+      "gateways": [
+        "cbi",
+        "sbi"
+      ]
+    },
+    {
+      "id": "andhrapradeshgrameenabank",
+      "name": "Andhra Pradesh Grameena Bank",
+      "gateways": [
+        "sbi"
+      ]
+    },
+    {
+      "id": "hdfcbankcorporate",
+      "name": "HDFC Bank [Corporate]",
+      "code": "CH3",
+      "gateways": [
+        "sbi"
+      ]
+    },
+    {
+      "id": "janasmallfinancebank",
+      "name": "Jana Small Finance Bank",
+      "code": "JNB",
+      "gateways": [
+        "sbi"
+      ]
+    },
+    {
+      "id": "kotakbankcorporate",
+      "name": "Kotak Bank [Corporate]",
+      "code": "KTC",
+      "gateways": [
+        "sbi"
+      ]
+    },
+    {
+      "id": "shivaliksmallfinancebankltd",
+      "name": "Shivalik Small Finance Bank Ltd",
+      "code": "SHB",
+      "gateways": [
+        "sbi"
+      ]
+    }
+  ],
+  "legacy": {
+    "sbi": "statebankofindia",
+    "cbi": "centralbankofindia",
+    "pnb": "punjabnationalbankretail",
+    "bob": "bankofbarodaretail",
+    "hdfc": "hdfcbankretail",
+    "icici": "icicibankretail",
+    "axis": "axisbankretail",
+    "kotak": "kotakbank",
+    "canara": "canarabank",
+    "union": "unionbankofindia",
+    "boi": "bankofindiaretail",
+    "indian": "indianbank",
+    "iob": "indianoverseasbank",
+    "uco": "ucobank",
+    "bom": "bankofmaharashtra",
+    "psb": "punjabandsindbank",
+    "idbi": "idbibankretail",
+    "idfc": "idfcfirstbanklimited",
+    "indusind": "indusindbank",
+    "yes": "yesbankretail",
+    "federal": "federalbank",
+    "rbl": "rblbankretail",
+    "au": "ausmallfinancebank",
+    "bandhan": "bandhanbankretail",
+    "jk": "jammuandkashmirbank",
+    "kvb": "karurvysyabank",
+    "karnataka": "karnatakabank",
+    "sib": "southindianbank",
+    "cub": "cityunionbank",
+    "tmb": "tamilnadmercantilebank",
+    "dcb": "dcbbank",
+    "csb": "csbbankltd",
+    "dhanlaxmi": "dhanlaxmibankretail",
+    "saraswat": "saraswatbank",
+    "equitas": "equitasbank",
+    "ujjivan": "ujjivansmallfinancebank"
+  }
+}
