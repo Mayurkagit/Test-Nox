@@ -1,0 +1,946 @@
+{
+  "applicants": {
+    "ACJPY6147K": {
+      "pan": "ACJPY6147K",
+      "personal": {
+        "firstName": "Reena",
+        "lastName": "Kumari",
+        "pan": "ACJPY6147K",
+        "mobile": "9810011221"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "NARELA",
+        "sector": "SECTOR A1 TO A4",
+        "flatNo": [
+          "101",
+          "102",
+          "103"
+        ]
+      },
+      "bank": {
+        "bankId": "17",
+        "bankName": "State Bank of India",
+        "branchName": "NARELA",
+        "ifscCode": "SBIN0001234",
+        "accountNumber": "38920194821"
+      },
+      "address": {
+        "houseNo": "Flat 101, Pocket 4",
+        "street": "Sector A1",
+        "area": "Narela",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110040",
+        "region": "1"
+      }
+    },
+    "ACEPA0314R": {
+      "pan": "ACEPA0314R",
+      "personal": {
+        "firstName": "Netram",
+        "lastName": "Singh",
+        "pan": "ACEPA0314R",
+        "mobile": "9810022332"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "DWARKA",
+        "sector": "SECTOR 19B",
+        "flatNo": [
+          "201",
+          "202",
+          "203"
+        ]
+      },
+      "bank": {
+        "bankId": "20",
+        "bankName": "Punjab National Bank",
+        "branchName": "SUBZI MANDI",
+        "ifscCode": "PUNB0012600",
+        "accountNumber": "0126000119059589"
+      },
+      "address": {
+        "houseNo": "2507, 3RD FLOOR",
+        "street": "LAMBI GALI, PUNJABI BASTI",
+        "area": "SUBZI MANDI",
+        "town": "DELHI",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110007",
+        "region": "1"
+      }
+    },
+    "AEJPY4736J": {
+      "pan": "AEJPY4736J",
+      "personal": {
+        "firstName": "Amit",
+        "lastName": "Sharma",
+        "pan": "AEJPY4736J",
+        "mobile": "9810033443"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "JASOLA",
+        "sector": "POCKET 9B",
+        "flatNo": [
+          "301",
+          "302",
+          "303"
+        ]
+      },
+      "bank": {
+        "bankId": "12",
+        "bankName": "HDFC Bank",
+        "branchName": "JASOLA",
+        "ifscCode": "HDFC0001234",
+        "accountNumber": "5010029384721"
+      },
+      "address": {
+        "houseNo": "301, Pocket 9B",
+        "street": "Jasola Vihar",
+        "area": "Jasola",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110025",
+        "region": "1"
+      }
+    },
+    "AKAPT9141M": {
+      "pan": "AKAPT9141M",
+      "personal": {
+        "firstName": "Anju",
+        "lastName": "Devi",
+        "pan": "AKAPT9141M",
+        "mobile": "9810044554"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "ROHINI",
+        "sector": "SECTOR 34",
+        "flatNo": [
+          "401",
+          "402",
+          "403"
+        ]
+      },
+      "bank": {
+        "bankId": "10",
+        "bankName": "ICICI Bank",
+        "branchName": "ROHINI SEC 34",
+        "ifscCode": "ICIC0000234",
+        "accountNumber": "023401567890"
+      },
+      "address": {
+        "houseNo": "House 401",
+        "street": "Pocket 1, Sector 34",
+        "area": "Rohini",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110085",
+        "region": "1"
+      }
+    },
+    "AOTPG9541H": {
+      "pan": "AOTPG9541H",
+      "personal": {
+        "firstName": "Jasvinder",
+        "lastName": "Singh",
+        "pan": "AOTPG9541H",
+        "mobile": "9810055665"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "DWARKA",
+        "sector": "SECTOR 14",
+        "flatNo": [
+          "501",
+          "502",
+          "503"
+        ]
+      },
+      "bank": {
+        "bankId": "13",
+        "bankName": "Axis Bank",
+        "branchName": "DWARKA SEC 14",
+        "ifscCode": "UTIB0000456",
+        "accountNumber": "914010029384756"
+      },
+      "address": {
+        "houseNo": "Flat 501",
+        "street": "Sector 14",
+        "area": "Dwarka",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110078",
+        "region": "1"
+      }
+    },
+    "ASUPK4124F": {
+      "pan": "ASUPK4124F",
+      "personal": {
+        "firstName": "Pawan",
+        "lastName": "Kumar",
+        "pan": "ASUPK4124F",
+        "mobile": "9810066776"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "LOKNAYAKPURAM",
+        "sector": "POCKET A",
+        "flatNo": [
+          "601",
+          "602",
+          "603"
+        ]
+      },
+      "bank": {
+        "bankId": "17",
+        "bankName": "State Bank of India",
+        "branchName": "LOKNAYAKPURAM",
+        "ifscCode": "SBIN0005678",
+        "accountNumber": "32984102934"
+      },
+      "address": {
+        "houseNo": "601, Pocket A",
+        "street": "Main Road",
+        "area": "Loknayakpuram",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110041",
+        "region": "1"
+      }
+    },
+    "AVTPT2049Q": {
+      "pan": "AVTPT2049Q",
+      "personal": {
+        "firstName": "Pragati",
+        "lastName": "Verma",
+        "pan": "AVTPT2049Q",
+        "mobile": "9810077887"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "SIRASPUR",
+        "sector": "BLOCK A",
+        "flatNo": [
+          "701",
+          "702",
+          "703"
+        ]
+      },
+      "bank": {
+        "bankId": "14",
+        "bankName": "IDBI Bank",
+        "branchName": "SIRASPUR",
+        "ifscCode": "IBKL0000789",
+        "accountNumber": "078910400012345"
+      },
+      "address": {
+        "houseNo": "Block A, House 701",
+        "street": "GT Karnal Road",
+        "area": "Siraspur",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110042",
+        "region": "1"
+      }
+    },
+    "AXCPK4305R": {
+      "pan": "AXCPK4305R",
+      "personal": {
+        "firstName": "Satish",
+        "lastName": "Kumar",
+        "pan": "AXCPK4305R",
+        "mobile": "9810088998"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "NARELA",
+        "sector": "SECTOR G7",
+        "flatNo": [
+          "801",
+          "802",
+          "803"
+        ]
+      },
+      "bank": {
+        "bankId": "20",
+        "bankName": "Punjab National Bank",
+        "branchName": "NARELA G7",
+        "ifscCode": "PUNB0007890",
+        "accountNumber": "0789000100234567"
+      },
+      "address": {
+        "houseNo": "801, Sector G7",
+        "street": "Narela Industrial Area",
+        "area": "Narela",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110040",
+        "region": "1"
+      }
+    },
+    "AYHPA2852P": {
+      "pan": "AYHPA2852P",
+      "personal": {
+        "firstName": "Jitin",
+        "lastName": "Sharma",
+        "pan": "AYHPA2852P",
+        "mobile": "9810099009"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "DWARKA",
+        "sector": "SECTOR 19B",
+        "flatNo": [
+          "901",
+          "902",
+          "903"
+        ]
+      },
+      "bank": {
+        "bankId": "20",
+        "bankName": "Punjab National Bank",
+        "branchName": "SUBZI MANDI",
+        "ifscCode": "PUNB0012600",
+        "accountNumber": "0126000119191557"
+      },
+      "address": {
+        "houseNo": "D1-302, SPRING MEADOWS",
+        "street": "GH-07A, TECHZONE-IV",
+        "area": "GREATER NOIDA WEST",
+        "town": "GAUTAM BUDH NAGAR",
+        "stateId": "9",
+        "districtId": "141",
+        "pinCode": "201306",
+        "region": "2"
+      }
+    },
+    "BNKPM2253F": {
+      "pan": "BNKPM2253F",
+      "personal": {
+        "firstName": "Rashmi",
+        "lastName": "Gupta",
+        "pan": "BNKPM2253F",
+        "mobile": "9810111222"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "JASOLA",
+        "sector": "POCKET 9B",
+        "flatNo": [
+          "1001",
+          "1002",
+          "1003"
+        ]
+      },
+      "bank": {
+        "bankId": "15",
+        "bankName": "Kotak Bank",
+        "branchName": "JASOLA",
+        "ifscCode": "KKBK0000890",
+        "accountNumber": "0890123456"
+      },
+      "address": {
+        "houseNo": "1001, Pocket 9B",
+        "street": "Jasola Vihar",
+        "area": "Jasola",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110025",
+        "region": "1"
+      }
+    },
+    "CIMPK4251K": {
+      "pan": "CIMPK4251K",
+      "personal": {
+        "firstName": "Amit",
+        "lastName": "Kumar",
+        "pan": "CIMPK4251K",
+        "mobile": "9822334455"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "DWARKA",
+        "sector": "SECTOR 19B",
+        "flatNo": [
+          "1201",
+          "1203",
+          "1206"
+        ]
+      },
+      "bank": {
+        "bankId": "21",
+        "bankName": "Union Bank of India",
+        "branchName": "BHORGARH",
+        "ifscCode": "UBIN0565105",
+        "accountNumber": "651002010005051"
+      },
+      "address": {
+        "houseNo": "190",
+        "street": "BHORGARH",
+        "area": "NARELA",
+        "town": "DELHI",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110040",
+        "region": "1"
+      }
+    },
+    "DZAPR7919M": {
+      "pan": "DZAPR7919M",
+      "personal": {
+        "firstName": "Preeti",
+        "lastName": "Rani",
+        "pan": "DZAPR7919M",
+        "mobile": "9810333444"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "ROHINI",
+        "sector": "SECTOR 35",
+        "flatNo": [
+          "1301",
+          "1302",
+          "1303"
+        ]
+      },
+      "bank": {
+        "bankId": "17",
+        "bankName": "State Bank of India",
+        "branchName": "ALIPUR",
+        "ifscCode": "SBIN0017884",
+        "accountNumber": "32984204258"
+      },
+      "address": {
+        "houseNo": "90",
+        "street": "BHORGARH",
+        "area": "NARELA",
+        "town": "DELHI",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110040",
+        "region": "1"
+      }
+    },
+    "FABPR0601E": {
+      "pan": "FABPR0601E",
+      "personal": {
+        "firstName": "Narela",
+        "lastName": "User",
+        "pan": "FABPR0601E",
+        "mobile": "9810444555"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "NARELA",
+        "sector": "SECTOR A1",
+        "flatNo": [
+          "1401",
+          "1402",
+          "1403"
+        ]
+      },
+      "bank": {
+        "bankId": "17",
+        "bankName": "State Bank of India",
+        "branchName": "NARELA",
+        "ifscCode": "SBIN0001234",
+        "accountNumber": "20394857102"
+      },
+      "address": {
+        "houseNo": "1401, Sector A1",
+        "street": "Pocket 1",
+        "area": "Narela",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110040",
+        "region": "1"
+      }
+    },
+    "MCWPS2133L": {
+      "pan": "MCWPS2133L",
+      "personal": {
+        "firstName": "Arun",
+        "lastName": "Singh",
+        "pan": "MCWPS2133L",
+        "mobile": "9810555666"
+      },
+      "preferences": {
+        "scheme": "",
+        "locality": "DWARKA",
+        "sector": "SECTOR 19B",
+        "flatNo": [
+          "1501",
+          "1502",
+          "1503"
+        ]
+      },
+      "bank": {
+        "bankId": "12",
+        "bankName": "HDFC Bank",
+        "branchName": "DWARKA",
+        "ifscCode": "HDFC0000345",
+        "accountNumber": "5010038472910"
+      },
+      "address": {
+        "houseNo": "Flat 1501",
+        "street": "Sector 19B",
+        "area": "Dwarka",
+        "town": "Delhi",
+        "stateId": "7",
+        "districtId": "91",
+        "pinCode": "110075",
+        "region": "1"
+      }
+    }
+  },
+  "schemes": {},
+  "bookingRuns": [
+    {
+      "id": "test_run_1788557590210",
+      "timestamp": 1788557590211,
+      "timeStr": "3:03:10 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T21:33:10.227Z"
+    },
+    {
+      "id": "test_run_1788557675918",
+      "timestamp": 1788557675921,
+      "timeStr": "3:04:35 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T21:34:35.937Z"
+    },
+    {
+      "id": "test_run_1788558243354",
+      "timestamp": 1788558243355,
+      "timeStr": "3:14:03 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T21:44:03.372Z"
+    },
+    {
+      "id": "test_run_1788560187706",
+      "timestamp": 1788560187707,
+      "timeStr": "3:46:27 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T22:16:27.724Z"
+    },
+    {
+      "id": "test_run_1788563848793",
+      "timestamp": 1788563848793,
+      "timeStr": "4:47:28 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T23:17:28.811Z"
+    },
+    {
+      "id": "test_run_1788564060665",
+      "timestamp": 1788564060666,
+      "timeStr": "4:51:00 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T23:21:00.684Z"
+    },
+    {
+      "id": "test_run_1788564325493",
+      "timestamp": 1788564325494,
+      "timeStr": "4:55:25 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T23:25:25.511Z"
+    },
+    {
+      "id": "test_run_1788564583681",
+      "timestamp": 1788564583682,
+      "timeStr": "4:59:43 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T23:29:43.699Z"
+    },
+    {
+      "id": "test_run_1788565281528",
+      "timestamp": 1788565281529,
+      "timeStr": "5:11:21 AM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-04T23:41:21.546Z"
+    },
+    {
+      "id": "test_run_1788696103817",
+      "timestamp": 1788696103818,
+      "timeStr": "5:31:43.818 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T12:01:43.818Z"
+    },
+    {
+      "id": "test_run_1788698620132",
+      "timestamp": 1788698620133,
+      "timeStr": "6:13:40.133 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T12:43:40.133Z"
+    },
+    {
+      "id": "test_run_1788698836834",
+      "timestamp": 1788698836835,
+      "timeStr": "6:17:16.835 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T12:47:16.835Z"
+    },
+    {
+      "id": "test_run_1788703100369",
+      "timestamp": 1788703100370,
+      "timeStr": "7:28:20.370 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T13:58:20.370Z"
+    },
+    {
+      "id": "test_run_1788703423987",
+      "timestamp": 1788703423988,
+      "timeStr": "7:33:43.988 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T14:03:43.988Z"
+    },
+    {
+      "id": "test_run_1788703590402",
+      "timestamp": 1788703590404,
+      "timeStr": "7:36:30.404 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T14:06:30.404Z"
+    },
+    {
+      "id": "test_run_1788703628577",
+      "timestamp": 1788703628579,
+      "timeStr": "7:37:08.579 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T14:07:08.579Z"
+    },
+    {
+      "id": "test_run_1788703691665",
+      "timestamp": 1788703691666,
+      "timeStr": "7:38:11.666 PM",
+      "applicantPan": "ABCDE1234F",
+      "applicantName": "Jitin Sharma",
+      "flatNo": "101",
+      "scheme": "DDA FCFS Phase IV",
+      "status": "SUCCESS",
+      "totalDurationMs": 4250,
+      "totalDurationSec": 4.25,
+      "captchaAttempts": [
+        {
+          "attemptNumber": 1,
+          "durationMs": 11,
+          "status": "SOLVED",
+          "answer": "28"
+        }
+      ],
+      "logs": [
+        "[00:00.010] [ACTION] Flat 101 Selected",
+        "[00:04.250] [SUCCESS] Flat Reserved"
+      ],
+      "createdAt": "2026-09-06T14:08:11.666Z"
+    }
+  ],
+  "settings": {
+    "theme": "light",
+    "automationEnabled": true,
+    "captchaAutoSolveEnabled": true,
+    "captchaAutoSubmitEnabled": true,
+    "aiModel": "gemini-3.5-flash-lite",
+    "settleDelayMs": 150,
+    "stealthMode": true,
+    "zoomLevel": 1.15
+  }
+}
