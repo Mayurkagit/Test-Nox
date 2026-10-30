@@ -1,0 +1,1469 @@
+{
+  "runData": {
+    "id": "CIMPK4251K_1790959995861",
+    "applicantPan": "CIMPK4251K",
+    "applicantName": "AMIT KUMAR",
+    "flatNo": "604",
+    "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "status": "SUCCESS",
+    "totalDurationMs": 2082,
+    "totalDurationSec": 2.08,
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "CIMPK4251K",
+        "timestamp": 1790959997920,
+        "timeStr": "10:23:17.920 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "20 + 1 = 21",
+        "answer": "21",
+        "numericAnswer": 21,
+        "durationMs": 315,
+        "status": "RESERVED",
+        "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "CIMPK4251K",
+      "timestamp": 1790959997920,
+      "timeStr": "10:23:17.920 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "20 + 1 = 21",
+      "answer": "21",
+      "numericAnswer": 21,
+      "durationMs": 315,
+      "status": "RESERVED",
+      "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "logs": [
+      {
+        "time": "10:23:15.861 PM",
+        "timestamp": 1790959995860,
+        "ts": 1790959995860,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "CIMPK4251K",
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.366 PM",
+        "timestamp": 1790959149366,
+        "ts": 1790959149366,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.367 PM",
+        "timestamp": 1790959149367,
+        "ts": 1790959149367,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "CIMPK4251K",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (287ms) — Schemes page verified & session active",
+        "timestamp": 1790959149652,
+        "ts": 1790959149652,
+        "time": "10:09:09.652 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:09:12.947 PM",
+        "timestamp": 1790959152947,
+        "ts": 1790959152947,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:13.481 PM",
+        "timestamp": 1790959153481,
+        "ts": 1790959153481,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.380 PM",
+        "timestamp": 1790959154380,
+        "ts": 1790959154380,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.813 PM",
+        "timestamp": 1790959154813,
+        "ts": 1790959154813,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.815 PM",
+        "timestamp": 1790959154815,
+        "ts": 1790959154815,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.030 PM",
+        "timestamp": 1790959155030,
+        "ts": 1790959155030,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 504 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.035 PM",
+        "timestamp": 1790959155035,
+        "ts": 1790959155035,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 504...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.037 PM",
+        "timestamp": 1790959155037,
+        "ts": 1790959155037,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 504 (ID: 4qqwb) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.405 PM",
+        "timestamp": 1790959155405,
+        "ts": 1790959155405,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 14 + 8 = 22 (20ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.406 PM",
+        "timestamp": 1790959155406,
+        "ts": 1790959155406,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 14 + 8 = 22 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.407 PM",
+        "timestamp": 1790959155407,
+        "ts": 1790959155407,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.643 PM",
+        "timestamp": 1790959155643,
+        "ts": 1790959155643,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 504 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.489 PM",
+        "timestamp": 1790959156489,
+        "ts": 1790959156489,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.490 PM",
+        "timestamp": 1790959156490,
+        "ts": 1790959156490,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Booking Run Completed in 2.46s (2460ms) for Flat 504",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "CIMPK4251K",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790959157840,
+        "ts": 1790959157840,
+        "time": "10:09:17.840 PM",
+        "_stored": true
+      },
+      {
+        "level": "WARN",
+        "pan": "CIMPK4251K",
+        "page": "Engine",
+        "msg": "⏸️ Automation paused mid-flight: all observers disconnected, polling halted, locks released.",
+        "timestamp": 1790959746169,
+        "ts": 1790959746169,
+        "time": "10:19:06.169 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "CIMPK4251K",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790959995861,
+        "ts": 1790959995861,
+        "time": "10:23:15.861 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "CIMPK4251K",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790959996491,
+        "ts": 1790959996491,
+        "time": "10:23:16.491 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.495 PM",
+        "timestamp": 1790959996495,
+        "ts": 1790959996495,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.497 PM",
+        "timestamp": 1790959996497,
+        "ts": 1790959996497,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.104 PM",
+        "timestamp": 1790959997104,
+        "ts": 1790959997104,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.106 PM",
+        "timestamp": 1790959997106,
+        "ts": 1790959997106,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.260 PM",
+        "timestamp": 1790959997260,
+        "ts": 1790959997260,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.269 PM",
+        "timestamp": 1790959997269,
+        "ts": 1790959997269,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.273 PM",
+        "timestamp": 1790959997273,
+        "ts": 1790959997273,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.918 PM",
+        "timestamp": 1790959997918,
+        "ts": 1790959997918,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 20 + 1 = 21 (315ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.938 PM",
+        "timestamp": 1790959997938,
+        "ts": 1790959997938,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 1 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.953 PM",
+        "timestamp": 1790959997953,
+        "ts": 1790959997953,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:18.214 PM",
+        "timestamp": 1790959998214,
+        "ts": 1790959998214,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.076 PM",
+        "timestamp": 1790959999076,
+        "ts": 1790959999076,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.084 PM",
+        "timestamp": 1790959999084,
+        "ts": 1790959999084,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790959995861,
+        "time": "10:23:15.861 PM",
+        "message": "Scheme Apply: DDA KARMAJEEVI AWAAS YOJANA 2026 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790959996277,
+        "time": "10:23:16.277 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790959996496,
+        "time": "10:23:16.496 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790959997261,
+        "time": "10:23:17.261 PM",
+        "message": "Flat Selected (Target Preference [604])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790959997943,
+        "time": "10:23:17.943 PM",
+        "message": "Flat Captcha Submitted: 20 + 1 = 21 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790959997943,
+        "time": "10:23:17.943 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "bookedFlat": {
+      "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+      "locality": "1",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "POCKET 11",
+      "block": "BLOCK Q",
+      "tower": "N/A",
+      "flatNo": "604",
+      "floor": "6th Floor",
+      "holdExpiresAt": "2026-10-02T17:07:18.000Z"
+    },
+    "holdExpiresAt": "2026-10-02T17:07:18.000Z",
+    "completedAt": "2026-10-02T16:53:19.123Z"
+  },
+  "payload": {
+    "runId": "CIMPK4251K_1790959995861",
+    "id": "CIMPK4251K_1790959995861",
+    "mode": "LIVE",
+    "bookingKey": "DDA-2026-LIVE",
+    "userEmail": "admn@xyz.com",
+    "userId": "Vy9OVHwYPfclSTp94yDUf9JuMKI2",
+    "applicantName": "AMIT KUMAR",
+    "applicantPan": "CIMPK4251K",
+    "fatherName": "CHANDER BHAN",
+    "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "schemeName": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "totalDurationMs": 2082,
+    "totalDurationSec": 2.08,
+    "holdExpiresAt": "2026-10-02T17:07:18.000Z",
+    "applicant": {
+      "firstName": "AMIT",
+      "lastName": "KUMAR",
+      "pan": "CIMPK4251K",
+      "mobile": "",
+      "email": ""
+    },
+    "bookedFlat": {
+      "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+      "locality": "1",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "POCKET 11",
+      "block": "BLOCK Q",
+      "tower": "N/A",
+      "flatNo": "604",
+      "floor": "6th Floor",
+      "holdExpiresAt": "2026-10-02T17:07:18.000Z"
+    },
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790959995861,
+        "time": "10:23:15.861 PM",
+        "message": "Scheme Apply: DDA KARMAJEEVI AWAAS YOJANA 2026 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790959996277,
+        "time": "10:23:16.277 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790959996496,
+        "time": "10:23:16.496 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790959997261,
+        "time": "10:23:17.261 PM",
+        "message": "Flat Selected (Target Preference [604])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790959997943,
+        "time": "10:23:17.943 PM",
+        "message": "Flat Captcha Submitted: 20 + 1 = 21 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790959997943,
+        "time": "10:23:17.943 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "CIMPK4251K",
+        "timestamp": 1790959997920,
+        "timeStr": "10:23:17.920 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "20 + 1 = 21",
+        "answer": "21",
+        "numericAnswer": 21,
+        "durationMs": 315,
+        "status": "RESERVED",
+        "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "CIMPK4251K",
+      "timestamp": 1790959997920,
+      "timeStr": "10:23:17.920 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "20 + 1 = 21",
+      "answer": "21",
+      "numericAnswer": 21,
+      "durationMs": 315,
+      "status": "RESERVED",
+      "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "runLogs": [
+      {
+        "time": "10:23:15.861 PM",
+        "timestamp": 1790959995860,
+        "ts": 1790959995860,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "CIMPK4251K",
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.366 PM",
+        "timestamp": 1790959149366,
+        "ts": 1790959149366,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.367 PM",
+        "timestamp": 1790959149367,
+        "ts": 1790959149367,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "CIMPK4251K",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (287ms) — Schemes page verified & session active",
+        "timestamp": 1790959149652,
+        "ts": 1790959149652,
+        "time": "10:09:09.652 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:09:12.947 PM",
+        "timestamp": 1790959152947,
+        "ts": 1790959152947,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:13.481 PM",
+        "timestamp": 1790959153481,
+        "ts": 1790959153481,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.380 PM",
+        "timestamp": 1790959154380,
+        "ts": 1790959154380,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.813 PM",
+        "timestamp": 1790959154813,
+        "ts": 1790959154813,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.815 PM",
+        "timestamp": 1790959154815,
+        "ts": 1790959154815,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.030 PM",
+        "timestamp": 1790959155030,
+        "ts": 1790959155030,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 504 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.035 PM",
+        "timestamp": 1790959155035,
+        "ts": 1790959155035,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 504...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.037 PM",
+        "timestamp": 1790959155037,
+        "ts": 1790959155037,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 504 (ID: 4qqwb) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.405 PM",
+        "timestamp": 1790959155405,
+        "ts": 1790959155405,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 14 + 8 = 22 (20ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.406 PM",
+        "timestamp": 1790959155406,
+        "ts": 1790959155406,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 14 + 8 = 22 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.407 PM",
+        "timestamp": 1790959155407,
+        "ts": 1790959155407,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.643 PM",
+        "timestamp": 1790959155643,
+        "ts": 1790959155643,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 504 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.489 PM",
+        "timestamp": 1790959156489,
+        "ts": 1790959156489,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.490 PM",
+        "timestamp": 1790959156490,
+        "ts": 1790959156490,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Booking Run Completed in 2.46s (2460ms) for Flat 504",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "CIMPK4251K",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790959157840,
+        "ts": 1790959157840,
+        "time": "10:09:17.840 PM",
+        "_stored": true
+      },
+      {
+        "level": "WARN",
+        "pan": "CIMPK4251K",
+        "page": "Engine",
+        "msg": "⏸️ Automation paused mid-flight: all observers disconnected, polling halted, locks released.",
+        "timestamp": 1790959746169,
+        "ts": 1790959746169,
+        "time": "10:19:06.169 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "CIMPK4251K",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790959995861,
+        "ts": 1790959995861,
+        "time": "10:23:15.861 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "CIMPK4251K",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790959996491,
+        "ts": 1790959996491,
+        "time": "10:23:16.491 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.495 PM",
+        "timestamp": 1790959996495,
+        "ts": 1790959996495,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.497 PM",
+        "timestamp": 1790959996497,
+        "ts": 1790959996497,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.104 PM",
+        "timestamp": 1790959997104,
+        "ts": 1790959997104,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.106 PM",
+        "timestamp": 1790959997106,
+        "ts": 1790959997106,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.260 PM",
+        "timestamp": 1790959997260,
+        "ts": 1790959997260,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.269 PM",
+        "timestamp": 1790959997269,
+        "ts": 1790959997269,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.273 PM",
+        "timestamp": 1790959997273,
+        "ts": 1790959997273,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.918 PM",
+        "timestamp": 1790959997918,
+        "ts": 1790959997918,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 20 + 1 = 21 (315ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.938 PM",
+        "timestamp": 1790959997938,
+        "ts": 1790959997938,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 1 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.953 PM",
+        "timestamp": 1790959997953,
+        "ts": 1790959997953,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:18.214 PM",
+        "timestamp": 1790959998214,
+        "ts": 1790959998214,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.076 PM",
+        "timestamp": 1790959999076,
+        "ts": 1790959999076,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.084 PM",
+        "timestamp": 1790959999084,
+        "ts": 1790959999084,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "logs": [
+      {
+        "time": "10:23:15.861 PM",
+        "timestamp": 1790959995860,
+        "ts": 1790959995860,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "CIMPK4251K",
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.366 PM",
+        "timestamp": 1790959149366,
+        "ts": 1790959149366,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:09.367 PM",
+        "timestamp": 1790959149367,
+        "ts": 1790959149367,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "CIMPK4251K",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (287ms) — Schemes page verified & session active",
+        "timestamp": 1790959149652,
+        "ts": 1790959149652,
+        "time": "10:09:09.652 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:09:12.947 PM",
+        "timestamp": 1790959152947,
+        "ts": 1790959152947,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:13.481 PM",
+        "timestamp": 1790959153481,
+        "ts": 1790959153481,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.379 PM",
+        "timestamp": 1790959154379,
+        "ts": 1790959154379,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.380 PM",
+        "timestamp": 1790959154380,
+        "ts": 1790959154380,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.813 PM",
+        "timestamp": 1790959154813,
+        "ts": 1790959154813,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:14.815 PM",
+        "timestamp": 1790959154815,
+        "ts": 1790959154815,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.030 PM",
+        "timestamp": 1790959155030,
+        "ts": 1790959155030,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 504 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.035 PM",
+        "timestamp": 1790959155035,
+        "ts": 1790959155035,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 504...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.037 PM",
+        "timestamp": 1790959155037,
+        "ts": 1790959155037,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 504 (ID: 4qqwb) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.405 PM",
+        "timestamp": 1790959155405,
+        "ts": 1790959155405,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 14 + 8 = 22 (20ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.406 PM",
+        "timestamp": 1790959155406,
+        "ts": 1790959155406,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 14 + 8 = 22 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.407 PM",
+        "timestamp": 1790959155407,
+        "ts": 1790959155407,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:15.643 PM",
+        "timestamp": 1790959155643,
+        "ts": 1790959155643,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 504 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.489 PM",
+        "timestamp": 1790959156489,
+        "ts": 1790959156489,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.490 PM",
+        "timestamp": 1790959156490,
+        "ts": 1790959156490,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Booking Run Completed in 2.46s (2460ms) for Flat 504",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:09:16.499 PM",
+        "timestamp": 1790959156499,
+        "ts": 1790959156499,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "CIMPK4251K",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790959157840,
+        "ts": 1790959157840,
+        "time": "10:09:17.840 PM",
+        "_stored": true
+      },
+      {
+        "level": "WARN",
+        "pan": "CIMPK4251K",
+        "page": "Engine",
+        "msg": "⏸️ Automation paused mid-flight: all observers disconnected, polling halted, locks released.",
+        "timestamp": 1790959746169,
+        "ts": 1790959746169,
+        "time": "10:19:06.169 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "CIMPK4251K",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790959995861,
+        "ts": 1790959995861,
+        "time": "10:23:15.861 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "CIMPK4251K",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790959996491,
+        "ts": 1790959996491,
+        "time": "10:23:16.491 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.495 PM",
+        "timestamp": 1790959996495,
+        "ts": 1790959996495,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:16.497 PM",
+        "timestamp": 1790959996497,
+        "ts": 1790959996497,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.104 PM",
+        "timestamp": 1790959997104,
+        "ts": 1790959997104,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [604, 504, 804, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.106 PM",
+        "timestamp": 1790959997106,
+        "ts": 1790959997106,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.260 PM",
+        "timestamp": 1790959997260,
+        "ts": 1790959997260,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.269 PM",
+        "timestamp": 1790959997269,
+        "ts": 1790959997269,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.273 PM",
+        "timestamp": 1790959997273,
+        "ts": 1790959997273,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.918 PM",
+        "timestamp": 1790959997918,
+        "ts": 1790959997918,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "✅ Captcha Solved: 20 + 1 = 21 (315ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.938 PM",
+        "timestamp": 1790959997938,
+        "ts": 1790959997938,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 1 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:17.953 PM",
+        "timestamp": 1790959997953,
+        "ts": 1790959997953,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:18.214 PM",
+        "timestamp": 1790959998214,
+        "ts": 1790959998214,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "CIMPK4251K",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.076 PM",
+        "timestamp": 1790959999076,
+        "ts": 1790959999076,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:23:19.084 PM",
+        "timestamp": 1790959999084,
+        "ts": 1790959999084,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "CIMPK4251K",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "completedAt": "2026-10-02T16:53:19.123Z",
+    "createdAt": "2026-10-02T16:53:19.123Z",
+    "client": "DDA-Desktop-Electron"
+  }
+}

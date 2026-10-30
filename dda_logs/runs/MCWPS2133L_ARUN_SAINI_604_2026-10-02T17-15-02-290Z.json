@@ -1,0 +1,1439 @@
+{
+  "runData": {
+    "id": "MCWPS2133L_1790961299281",
+    "applicantPan": "MCWPS2133L",
+    "applicantName": "ARUN SAINI",
+    "flatNo": "604",
+    "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "status": "SUCCESS",
+    "totalDurationMs": 2138,
+    "totalDurationSec": 2.14,
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "CIMPK4251K",
+        "timestamp": 1790961301416,
+        "timeStr": "10:45:01.416 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "18 + 6 = 24",
+        "answer": "24",
+        "numericAnswer": 24,
+        "durationMs": 24,
+        "status": "RESERVED",
+        "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "CIMPK4251K",
+      "timestamp": 1790961301416,
+      "timeStr": "10:45:01.416 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "18 + 6 = 24",
+      "answer": "24",
+      "numericAnswer": 24,
+      "durationMs": 24,
+      "status": "RESERVED",
+      "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "logs": [
+      {
+        "time": "10:44:59.281 PM",
+        "timestamp": 1790961299280,
+        "ts": 1790961299280,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "MCWPS2133L",
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "MCWPS2133L",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (197ms) — Schemes page verified & session active",
+        "timestamp": 1790960409007,
+        "ts": 1790960409007,
+        "time": "10:30:09.007 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:30:55.871 PM",
+        "timestamp": 1790960455871,
+        "ts": 1790960455871,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:56.310 PM",
+        "timestamp": 1790960456310,
+        "ts": 1790960456310,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.526 PM",
+        "timestamp": 1790960457526,
+        "ts": 1790960457526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.952 PM",
+        "timestamp": 1790960457952,
+        "ts": 1790960457952,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.954 PM",
+        "timestamp": 1790960457954,
+        "ts": 1790960457954,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.156 PM",
+        "timestamp": 1790960458156,
+        "ts": 1790960458156,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1104 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.165 PM",
+        "timestamp": 1790960458165,
+        "ts": 1790960458165,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1104...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.167 PM",
+        "timestamp": 1790960458167,
+        "ts": 1790960458167,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 1104 (ID: 944OG) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.576 PM",
+        "timestamp": 1790960458576,
+        "ts": 1790960458576,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 20 + 4 = 24 (53ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 4 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.832 PM",
+        "timestamp": 1790960458832,
+        "ts": 1790960458832,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 1104 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.439 PM",
+        "timestamp": 1790960459439,
+        "ts": 1790960459439,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.440 PM",
+        "timestamp": 1790960459440,
+        "ts": 1790960459440,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.462 PM",
+        "timestamp": 1790960459462,
+        "ts": 1790960459462,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Booking Run Completed in 2.71s (2706ms) for Flat Mutation",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.463 PM",
+        "timestamp": 1790960459463,
+        "ts": 1790960459463,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "MCWPS2133L",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790960460439,
+        "ts": 1790960460439,
+        "time": "10:31:00.439 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "MCWPS2133L",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790961299281,
+        "ts": 1790961299281,
+        "time": "10:44:59.281 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "MCWPS2133L",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790961299719,
+        "ts": 1790961299719,
+        "time": "10:44:59.719 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.721 PM",
+        "timestamp": 1790961299721,
+        "ts": 1790961299721,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.722 PM",
+        "timestamp": 1790961299722,
+        "ts": 1790961299722,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.226 PM",
+        "timestamp": 1790961300226,
+        "ts": 1790961300226,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.228 PM",
+        "timestamp": 1790961300228,
+        "ts": 1790961300228,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.408 PM",
+        "timestamp": 1790961300408,
+        "ts": 1790961300408,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.416 PM",
+        "timestamp": 1790961300416,
+        "ts": 1790961300416,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.420 PM",
+        "timestamp": 1790961300420,
+        "ts": 1790961300420,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.414 PM",
+        "timestamp": 1790961301414,
+        "ts": 1790961301414,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 18 + 6 = 24 (24ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.418 PM",
+        "timestamp": 1790961301418,
+        "ts": 1790961301418,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 18 + 6 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.419 PM",
+        "timestamp": 1790961301419,
+        "ts": 1790961301419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.634 PM",
+        "timestamp": 1790961301634,
+        "ts": 1790961301634,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.205 PM",
+        "timestamp": 1790961302205,
+        "ts": 1790961302205,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.208 PM",
+        "timestamp": 1790961302208,
+        "ts": 1790961302208,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790961299281,
+        "time": "10:44:59.281 PM",
+        "message": "Scheme Apply: DDA KARMAJEEVI AWAAS YOJANA 2026 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790961299709,
+        "time": "10:44:59.709 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790961299722,
+        "time": "10:44:59.722 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790961300411,
+        "time": "10:45:00.411 PM",
+        "message": "Flat Selected (Target Preference [604])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790961301419,
+        "time": "10:45:01.419 PM",
+        "message": "Flat Captcha Submitted: 18 + 6 = 24 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790961301419,
+        "time": "10:45:01.419 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "bookedFlat": {
+      "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+      "locality": "NARELA",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "Pocket 11",
+      "block": "Block Q",
+      "tower": "N/A",
+      "flatNo": "604",
+      "floor": "Sixth",
+      "holdExpiresAt": "2026-10-02T17:29:01.000Z"
+    },
+    "holdExpiresAt": "2026-10-02T17:29:01.000Z",
+    "completedAt": "2026-10-02T17:15:02.231Z"
+  },
+  "payload": {
+    "runId": "MCWPS2133L_1790961299281",
+    "id": "MCWPS2133L_1790961299281",
+    "mode": "LIVE",
+    "bookingKey": "DDA-2026-LIVE",
+    "userEmail": "admn@xyz.com",
+    "userId": "Vy9OVHwYPfclSTp94yDUf9JuMKI2",
+    "applicantName": "ARUN SAINI",
+    "applicantPan": "MCWPS2133L",
+    "fatherName": "SATYAVEER SAINI",
+    "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "schemeName": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+    "totalDurationMs": 2138,
+    "totalDurationSec": 2.14,
+    "holdExpiresAt": "2026-10-02T17:29:01.000Z",
+    "applicant": {
+      "firstName": "ARUN",
+      "lastName": "SAINI",
+      "pan": "MCWPS2133L",
+      "mobile": "",
+      "email": ""
+    },
+    "bookedFlat": {
+      "scheme": "DDA KARMAJEEVI AWAAS YOJANA 2026",
+      "locality": "NARELA",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "Pocket 11",
+      "block": "Block Q",
+      "tower": "N/A",
+      "flatNo": "604",
+      "floor": "Sixth",
+      "holdExpiresAt": "2026-10-02T17:29:01.000Z"
+    },
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790961299281,
+        "time": "10:44:59.281 PM",
+        "message": "Scheme Apply: DDA KARMAJEEVI AWAAS YOJANA 2026 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790961299709,
+        "time": "10:44:59.709 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790961299722,
+        "time": "10:44:59.722 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790961300411,
+        "time": "10:45:00.411 PM",
+        "message": "Flat Selected (Target Preference [604])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790961301419,
+        "time": "10:45:01.419 PM",
+        "message": "Flat Captcha Submitted: 18 + 6 = 24 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790961301419,
+        "time": "10:45:01.419 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "CIMPK4251K",
+        "timestamp": 1790961301416,
+        "timeStr": "10:45:01.416 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "18 + 6 = 24",
+        "answer": "24",
+        "numericAnswer": 24,
+        "durationMs": 24,
+        "status": "RESERVED",
+        "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "CIMPK4251K",
+      "timestamp": 1790961301416,
+      "timeStr": "10:45:01.416 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "18 + 6 = 24",
+      "answer": "24",
+      "numericAnswer": 24,
+      "durationMs": 24,
+      "status": "RESERVED",
+      "statusDetail": "Flat 604 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "runLogs": [
+      {
+        "time": "10:44:59.281 PM",
+        "timestamp": 1790961299280,
+        "ts": 1790961299280,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "MCWPS2133L",
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "MCWPS2133L",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (197ms) — Schemes page verified & session active",
+        "timestamp": 1790960409007,
+        "ts": 1790960409007,
+        "time": "10:30:09.007 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:30:55.871 PM",
+        "timestamp": 1790960455871,
+        "ts": 1790960455871,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:56.310 PM",
+        "timestamp": 1790960456310,
+        "ts": 1790960456310,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.526 PM",
+        "timestamp": 1790960457526,
+        "ts": 1790960457526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.952 PM",
+        "timestamp": 1790960457952,
+        "ts": 1790960457952,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.954 PM",
+        "timestamp": 1790960457954,
+        "ts": 1790960457954,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.156 PM",
+        "timestamp": 1790960458156,
+        "ts": 1790960458156,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1104 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.165 PM",
+        "timestamp": 1790960458165,
+        "ts": 1790960458165,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1104...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.167 PM",
+        "timestamp": 1790960458167,
+        "ts": 1790960458167,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 1104 (ID: 944OG) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.576 PM",
+        "timestamp": 1790960458576,
+        "ts": 1790960458576,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 20 + 4 = 24 (53ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 4 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.832 PM",
+        "timestamp": 1790960458832,
+        "ts": 1790960458832,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 1104 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.439 PM",
+        "timestamp": 1790960459439,
+        "ts": 1790960459439,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.440 PM",
+        "timestamp": 1790960459440,
+        "ts": 1790960459440,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.462 PM",
+        "timestamp": 1790960459462,
+        "ts": 1790960459462,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Booking Run Completed in 2.71s (2706ms) for Flat Mutation",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.463 PM",
+        "timestamp": 1790960459463,
+        "ts": 1790960459463,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "MCWPS2133L",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790960460439,
+        "ts": 1790960460439,
+        "time": "10:31:00.439 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "MCWPS2133L",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790961299281,
+        "ts": 1790961299281,
+        "time": "10:44:59.281 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "MCWPS2133L",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790961299719,
+        "ts": 1790961299719,
+        "time": "10:44:59.719 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.721 PM",
+        "timestamp": 1790961299721,
+        "ts": 1790961299721,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.722 PM",
+        "timestamp": 1790961299722,
+        "ts": 1790961299722,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.226 PM",
+        "timestamp": 1790961300226,
+        "ts": 1790961300226,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.228 PM",
+        "timestamp": 1790961300228,
+        "ts": 1790961300228,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.408 PM",
+        "timestamp": 1790961300408,
+        "ts": 1790961300408,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.416 PM",
+        "timestamp": 1790961300416,
+        "ts": 1790961300416,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.420 PM",
+        "timestamp": 1790961300420,
+        "ts": 1790961300420,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.414 PM",
+        "timestamp": 1790961301414,
+        "ts": 1790961301414,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 18 + 6 = 24 (24ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.418 PM",
+        "timestamp": 1790961301418,
+        "ts": 1790961301418,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 18 + 6 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.419 PM",
+        "timestamp": 1790961301419,
+        "ts": 1790961301419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.634 PM",
+        "timestamp": 1790961301634,
+        "ts": 1790961301634,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.205 PM",
+        "timestamp": 1790961302205,
+        "ts": 1790961302205,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.208 PM",
+        "timestamp": 1790961302208,
+        "ts": 1790961302208,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "logs": [
+      {
+        "time": "10:44:59.281 PM",
+        "timestamp": 1790961299280,
+        "ts": 1790961299280,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "MCWPS2133L",
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:08.828 PM",
+        "timestamp": 1790960408828,
+        "ts": 1790960408828,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "MCWPS2133L",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (197ms) — Schemes page verified & session active",
+        "timestamp": 1790960409007,
+        "ts": 1790960409007,
+        "time": "10:30:09.007 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:30:55.871 PM",
+        "timestamp": 1790960455871,
+        "ts": 1790960455871,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAJEEVI (Manual Direct)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:56.310 PM",
+        "timestamp": 1790960456310,
+        "ts": 1790960456310,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.526 PM",
+        "timestamp": 1790960457526,
+        "ts": 1790960457526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.527 PM",
+        "timestamp": 1790960457527,
+        "ts": 1790960457527,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.952 PM",
+        "timestamp": 1790960457952,
+        "ts": 1790960457952,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:57.954 PM",
+        "timestamp": 1790960457954,
+        "ts": 1790960457954,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.156 PM",
+        "timestamp": 1790960458156,
+        "ts": 1790960458156,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1104 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.165 PM",
+        "timestamp": 1790960458165,
+        "ts": 1790960458165,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1104...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.167 PM",
+        "timestamp": 1790960458167,
+        "ts": 1790960458167,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 1104 (ID: 944OG) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.576 PM",
+        "timestamp": 1790960458576,
+        "ts": 1790960458576,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 20 + 4 = 24 (53ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 20 + 4 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.577 PM",
+        "timestamp": 1790960458577,
+        "ts": 1790960458577,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:58.832 PM",
+        "timestamp": 1790960458832,
+        "ts": 1790960458832,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 1104 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.439 PM",
+        "timestamp": 1790960459439,
+        "ts": 1790960459439,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.440 PM",
+        "timestamp": 1790960459440,
+        "ts": 1790960459440,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.462 PM",
+        "timestamp": 1790960459462,
+        "ts": 1790960459462,
+        "level": "SUCCESS",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Booking Run Completed in 2.71s (2706ms) for Flat Mutation",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:30:59.463 PM",
+        "timestamp": 1790960459463,
+        "ts": 1790960459463,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📤 Dispatching analytics, captcha images & event logs (22 events) to Firestore...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "SUCCESS",
+        "pan": "MCWPS2133L",
+        "page": "Analytics",
+        "msg": "☁️ Cloud telemetry verified & written to Firebase (Worker Service Account).",
+        "timestamp": 1790960460439,
+        "ts": 1790960460439,
+        "time": "10:31:00.439 PM",
+        "_stored": true
+      },
+      {
+        "level": "ERROR",
+        "pan": "MCWPS2133L",
+        "page": "Timer Watchdog",
+        "msg": "⏰ Booking window or payment session has expired on DDA portal.",
+        "timestamp": 1790961299281,
+        "ts": 1790961299281,
+        "time": "10:44:59.281 PM",
+        "_stored": true
+      },
+      {
+        "level": "ACTION",
+        "pan": "MCWPS2133L",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 11 | BLOCK Q",
+        "timestamp": 1790961299719,
+        "ts": 1790961299719,
+        "time": "10:44:59.719 PM",
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.721 PM",
+        "timestamp": 1790961299721,
+        "ts": 1790961299721,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:44:59.722 PM",
+        "timestamp": 1790961299722,
+        "ts": 1790961299722,
+        "level": "ROUTE",
+        "page": "Locality",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/Vd6rd/Vd6rd/wdOqQ/L5exL/d92VL/vNZ4v",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.226 PM",
+        "timestamp": 1790961300226,
+        "ts": 1790961300226,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [505, 605, 604, 1104, 1004, 904]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.228 PM",
+        "timestamp": 1790961300228,
+        "ts": 1790961300228,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.408 PM",
+        "timestamp": 1790961300408,
+        "ts": 1790961300408,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 604 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.416 PM",
+        "timestamp": 1790961300416,
+        "ts": 1790961300416,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 604...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:00.420 PM",
+        "timestamp": 1790961300420,
+        "ts": 1790961300420,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Target Flat 604 (ID: Poo4X) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.414 PM",
+        "timestamp": 1790961301414,
+        "ts": 1790961301414,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "✅ Captcha Solved: 18 + 6 = 24 (24ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.418 PM",
+        "timestamp": 1790961301418,
+        "ts": 1790961301418,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 18 + 6 = 24 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.419 PM",
+        "timestamp": 1790961301419,
+        "ts": 1790961301419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:01.634 PM",
+        "timestamp": 1790961301634,
+        "ts": 1790961301634,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "MCWPS2133L",
+        "msg": "🎉 SUCCESS! Flat 604 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.205 PM",
+        "timestamp": 1790961302205,
+        "ts": 1790961302205,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "10:45:02.208 PM",
+        "timestamp": 1790961302208,
+        "ts": 1790961302208,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "MCWPS2133L",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "completedAt": "2026-10-02T17:15:02.231Z",
+    "createdAt": "2026-10-02T17:15:02.231Z",
+    "client": "DDA-Desktop-Electron"
+  }
+}

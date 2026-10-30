@@ -1,0 +1,717 @@
+{
+  "runData": {
+    "id": "AYHPA2852P_1790961780085",
+    "applicantPan": "AYHPA2852P",
+    "applicantName": "JITIN  ANAND",
+    "flatNo": "1308",
+    "scheme": "",
+    "status": "SUCCESS",
+    "totalDurationMs": 3022,
+    "totalDurationSec": 3.02,
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "MCWPS2133L",
+        "timestamp": 1790961783106,
+        "timeStr": "10:53:03.106 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "12 + 1 = 13",
+        "answer": "13",
+        "numericAnswer": 13,
+        "durationMs": 47,
+        "status": "RESERVED",
+        "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "MCWPS2133L",
+      "timestamp": 1790961783106,
+      "timeStr": "10:53:03.106 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "12 + 1 = 13",
+      "answer": "13",
+      "numericAnswer": 13,
+      "durationMs": 47,
+      "status": "RESERVED",
+      "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "logs": [
+      {
+        "time": "10:53:00.085 PM",
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.876 PM",
+        "level": "INFO",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (193ms) — Schemes page verified & session active",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.085 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Manual Direct)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.615 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.023 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "🚀 Submitting Application Form (#frmApply)...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.513 PM",
+        "level": "ACTION",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 9 | BLOCK B",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.520 PM",
+        "level": "INFO",
+        "page": "Locality",
+        "msg": "🏁 [Locality Race] Starting parallel race: Path A (resolver) vs Path B (cascade)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.238 PM",
+        "level": "SUCCESS",
+        "page": "Locality Step 1",
+        "msg": "🏆 Path B Tier 2 WON in 722ms — AJAX Jump: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.239 PM",
+        "level": "ROUTE",
+        "page": "Locality",
+        "msg": "🏆 [Locality Race] Path B (Tier 2) WON in 722ms — AJAX Jump",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.368 PM",
+        "level": "SUCCESS",
+        "page": "Hash Resolver",
+        "msg": "⚡ Step 2 Direct URL Built in 852ms: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.636 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.637 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.716 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.720 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.721 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.106 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "✅ Captcha Solved: 12 + 1 = 13 (47ms, Attempt 1)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 12 + 1 = 13 (Direct Mode)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.351 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.919 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.920 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "pan": "AYHPA2852P"
+      }
+    ],
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790961780085,
+        "time": "10:53:00.085 PM",
+        "message": "Scheme Apply: DDA Karmayogi Awaas Yojana 2025 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790961781253,
+        "time": "10:53:01.253 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790961781857,
+        "time": "10:53:01.857 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790961782718,
+        "time": "10:53:02.718 PM",
+        "message": "Flat Selected (Target Preference [1308])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790961783107,
+        "time": "10:53:03.107 PM",
+        "message": "Flat Captcha Submitted: 12 + 1 = 13 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790961783107,
+        "time": "10:53:03.107 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "bookedFlat": {
+      "scheme": "DDA Karmayogi Awaas Yojana 2025",
+      "locality": "NARELA",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "Pocket 9",
+      "block": "Block B",
+      "tower": "N/A",
+      "flatNo": "1308",
+      "floor": "Thirteenth",
+      "holdExpiresAt": "2026-10-02T17:37:03.000Z"
+    },
+    "holdExpiresAt": "2026-10-02T17:37:03.000Z",
+    "completedAt": "2026-10-02T17:23:03.937Z"
+  },
+  "payload": {
+    "id": "AYHPA2852P_1790961780085",
+    "runId": "AYHPA2852P_1790961780085",
+    "timestamp": 1790961784124,
+    "applicantName": "JITIN  ANAND",
+    "applicantPan": "AYHPA2852P",
+    "fatherName": "JASWANT KUMAR ANAND",
+    "mode": "LIVE",
+    "userEmail": "admn@xyz.com",
+    "userId": "Vy9OVHwYPfclSTp94yDUf9JuMKI2",
+    "bookingKey": "ADMIN_BYPASS",
+    "totalDurationMs": 3022,
+    "totalDurationSec": 3.02,
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790961780085,
+        "time": "10:53:00.085 PM",
+        "message": "Scheme Apply: DDA Karmayogi Awaas Yojana 2025 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790961781253,
+        "time": "10:53:01.253 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790961781857,
+        "time": "10:53:01.857 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790961782718,
+        "time": "10:53:02.718 PM",
+        "message": "Flat Selected (Target Preference [1308])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790961783107,
+        "time": "10:53:03.107 PM",
+        "message": "Flat Captcha Submitted: 12 + 1 = 13 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790961783107,
+        "time": "10:53:03.107 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "bookedFlat": {
+      "scheme": "DDA Karmayogi Awaas Yojana 2025",
+      "locality": "NARELA",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "Pocket 9",
+      "block": "Block B",
+      "tower": "N/A",
+      "flatNo": "1308",
+      "floor": "Thirteenth",
+      "holdExpiresAt": "2026-10-02T17:37:03.000Z"
+    },
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "MCWPS2133L",
+        "timestamp": 1790961783106,
+        "timeStr": "10:53:03.106 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "12 + 1 = 13",
+        "answer": "13",
+        "numericAnswer": 13,
+        "durationMs": 47,
+        "status": "RESERVED",
+        "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "MCWPS2133L",
+      "timestamp": 1790961783106,
+      "timeStr": "10:53:03.106 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "12 + 1 = 13",
+      "answer": "13",
+      "numericAnswer": 13,
+      "durationMs": 47,
+      "status": "RESERVED",
+      "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "runLogs": [
+      {
+        "time": "10:53:00.085 PM",
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.876 PM",
+        "level": "INFO",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (193ms) — Schemes page verified & session active",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.085 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Manual Direct)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.615 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.023 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "🚀 Submitting Application Form (#frmApply)...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.513 PM",
+        "level": "ACTION",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 9 | BLOCK B",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.520 PM",
+        "level": "INFO",
+        "page": "Locality",
+        "msg": "🏁 [Locality Race] Starting parallel race: Path A (resolver) vs Path B (cascade)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.238 PM",
+        "level": "SUCCESS",
+        "page": "Locality Step 1",
+        "msg": "🏆 Path B Tier 2 WON in 722ms — AJAX Jump: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.239 PM",
+        "level": "ROUTE",
+        "page": "Locality",
+        "msg": "🏆 [Locality Race] Path B (Tier 2) WON in 722ms — AJAX Jump",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.368 PM",
+        "level": "SUCCESS",
+        "page": "Hash Resolver",
+        "msg": "⚡ Step 2 Direct URL Built in 852ms: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.636 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.637 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.716 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.720 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.721 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.106 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "✅ Captcha Solved: 12 + 1 = 13 (47ms, Attempt 1)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 12 + 1 = 13 (Direct Mode)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.351 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.919 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.920 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "pan": "AYHPA2852P"
+      }
+    ],
+    "logs": [
+      {
+        "time": "10:53:00.085 PM",
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.685 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:52:55.876 PM",
+        "level": "INFO",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (193ms) — Schemes page verified & session active",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.085 PM",
+        "level": "ROUTE",
+        "page": "Schemes",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Manual Direct)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:00.615 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.023 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.253 PM",
+        "level": "ROUTE",
+        "page": "Application Form",
+        "msg": "🚀 Submitting Application Form (#frmApply)...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.513 PM",
+        "level": "ACTION",
+        "page": "Locality",
+        "msg": "📍 Locality Cascade Target: NARELA | SECTOR A1 TO A4 | POCKET 9 | BLOCK B",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:01.520 PM",
+        "level": "INFO",
+        "page": "Locality",
+        "msg": "🏁 [Locality Race] Starting parallel race: Path A (resolver) vs Path B (cascade)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.238 PM",
+        "level": "SUCCESS",
+        "page": "Locality Step 1",
+        "msg": "🏆 Path B Tier 2 WON in 722ms — AJAX Jump: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.239 PM",
+        "level": "ROUTE",
+        "page": "Locality",
+        "msg": "🏆 [Locality Race] Path B (Tier 2) WON in 722ms — AJAX Jump",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.368 PM",
+        "level": "SUCCESS",
+        "page": "Hash Resolver",
+        "msg": "⚡ Step 2 Direct URL Built in 852ms: https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.636 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.637 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.716 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.720 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:02.721 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.106 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "✅ Captcha Solved: 12 + 1 = 13 (47ms, Attempt 1)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 12 + 1 = 13 (Direct Mode)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.107 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.351 PM",
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.919 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "pan": "AYHPA2852P"
+      },
+      {
+        "time": "10:53:03.920 PM",
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "pan": "AYHPA2852P"
+      }
+    ],
+    "holdExpiresAt": "2026-10-02T17:37:03.000Z",
+    "createdAt": "2026-10-02T17:23:03.937Z",
+    "completedAt": "2026-10-02T17:23:03.937Z",
+    "client": "DDA-Desktop-Electron"
+  }
+}

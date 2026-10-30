@@ -1,0 +1,1223 @@
+{
+  "runData": {
+    "id": "AYHPA2852P_1790879168115",
+    "applicantPan": "AYHPA2852P",
+    "applicantName": "JITIN  ANAND",
+    "flatNo": "1308",
+    "scheme": "DDA Karmayogi Awaas Yojana 2025",
+    "status": "SUCCESS",
+    "totalDurationMs": 3842,
+    "totalDurationSec": 3.84,
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "AYHPA2852P",
+        "timestamp": 1790879171956,
+        "timeStr": "11:56:11.956 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "16 + 5 = 21",
+        "answer": "21",
+        "numericAnswer": 21,
+        "durationMs": 101,
+        "status": "RESERVED",
+        "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "AYHPA2852P",
+      "timestamp": 1790879171956,
+      "timeStr": "11:56:11.956 PM",
+      "base64Image": "data:image/png;base64,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",
+      "rawText": "16 + 5 = 21",
+      "answer": "21",
+      "numericAnswer": 21,
+      "durationMs": 101,
+      "status": "RESERVED",
+      "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "logs": [
+      {
+        "time": "11:56:08.115 PM",
+        "timestamp": 1790879168114,
+        "ts": 1790879168114,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P",
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.356 PM",
+        "timestamp": 1790878607356,
+        "ts": 1790878607356,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.357 PM",
+        "timestamp": 1790878607357,
+        "ts": 1790878607357,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (345ms) — Schemes page verified & session active",
+        "timestamp": 1790878607700,
+        "ts": 1790878607700,
+        "time": "11:46:47.700 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #2 OK (355ms) — Schemes page verified & session active",
+        "timestamp": 1790878663048,
+        "ts": 1790878663048,
+        "time": "11:47:43.048 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #3 OK (405ms) — Schemes page verified & session active",
+        "timestamp": 1790878735268,
+        "ts": 1790878735268,
+        "time": "11:48:55.268 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #4 OK (306ms) — Schemes page verified & session active",
+        "timestamp": 1790878793677,
+        "ts": 1790878793677,
+        "time": "11:49:53.677 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #5 OK (387ms) — Schemes page verified & session active",
+        "timestamp": 1790878851979,
+        "ts": 1790878851979,
+        "time": "11:50:51.979 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #6 OK (299ms) — Schemes page verified & session active",
+        "timestamp": 1790878914542,
+        "ts": 1790878914542,
+        "time": "11:51:54.542 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #7 OK (431ms) — Schemes page verified & session active",
+        "timestamp": 1790878967547,
+        "ts": 1790878967547,
+        "time": "11:52:47.547 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #8 OK (942ms) — Schemes page verified & session active",
+        "timestamp": 1790879028674,
+        "ts": 1790879028674,
+        "time": "11:53:48.674 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #9 OK (336ms) — Schemes page verified & session active",
+        "timestamp": 1790879082278,
+        "ts": 1790879082278,
+        "time": "11:54:42.278 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #10 OK (301ms) — Schemes page verified & session active",
+        "timestamp": 1790879137390,
+        "ts": 1790879137390,
+        "time": "11:55:37.390 PM",
+        "_stored": true
+      },
+      {
+        "time": "11:56:08.111 PM",
+        "timestamp": 1790879168111,
+        "ts": 1790879168111,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Timed Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:09.009 PM",
+        "timestamp": 1790879169009,
+        "ts": 1790879169009,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.526 PM",
+        "timestamp": 1790879170526,
+        "ts": 1790879170526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.887 PM",
+        "timestamp": 1790879170887,
+        "ts": 1790879170887,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.413 PM",
+        "timestamp": 1790879171413,
+        "ts": 1790879171413,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.419 PM",
+        "timestamp": 1790879171419,
+        "ts": 1790879171419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.421 PM",
+        "timestamp": 1790879171421,
+        "ts": 1790879171421,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.956 PM",
+        "timestamp": 1790879171956,
+        "ts": 1790879171956,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "✅ Captcha Solved: 16 + 5 = 21 (101ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.957 PM",
+        "timestamp": 1790879171957,
+        "ts": 1790879171957,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 16 + 5 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.958 PM",
+        "timestamp": 1790879171958,
+        "ts": 1790879171958,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.158 PM",
+        "timestamp": 1790879172158,
+        "ts": 1790879172158,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.597 PM",
+        "timestamp": 1790879172597,
+        "ts": 1790879172597,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted Terms & Conditions checkbox (#tandc)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.600 PM",
+        "timestamp": 1790879172600,
+        "ts": 1790879172600,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Clicking 'Click to Pay' (#btnContinue)...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.868 PM",
+        "timestamp": 1790879172868,
+        "ts": 1790879172868,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.873 PM",
+        "timestamp": 1790879172873,
+        "ts": 1790879172873,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790879168115,
+        "time": "11:56:08.115 PM",
+        "message": "Scheme Apply: DDA Karmayogi Awaas Yojana 2025 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790879170887,
+        "time": "11:56:10.887 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790879170888,
+        "time": "11:56:10.888 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790879171414,
+        "time": "11:56:11.414 PM",
+        "message": "Flat Selected (Target Preference [1308])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790879171957,
+        "time": "11:56:11.957 PM",
+        "message": "Flat Captcha Submitted: 16 + 5 = 21 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790879171957,
+        "time": "11:56:11.957 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "bookedFlat": {
+      "scheme": "DDA Karmayogi Awaas Yojana 2025",
+      "locality": "1",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "POCKET 9",
+      "block": "BLOCK B",
+      "tower": "N/A",
+      "flatNo": "1308",
+      "floor": "13th Floor",
+      "holdExpiresAt": "2026-10-01T18:40:13.000Z"
+    },
+    "holdExpiresAt": "2026-10-01T18:40:13.000Z",
+    "completedAt": "2026-10-01T18:26:12.881Z"
+  },
+  "payload": {
+    "runId": "AYHPA2852P_1790879168115",
+    "id": "AYHPA2852P_1790879168115",
+    "mode": "LIVE",
+    "bookingKey": "DDA-2026-LIVE",
+    "userEmail": "admn@xyz.com",
+    "userId": "Vy9OVHwYPfclSTp94yDUf9JuMKI2",
+    "applicantName": "JITIN  ANAND",
+    "applicantPan": "AYHPA2852P",
+    "fatherName": "JASWANT KUMAR ANAND",
+    "scheme": "DDA Karmayogi Awaas Yojana 2025",
+    "schemeName": "DDA Karmayogi Awaas Yojana 2025",
+    "totalDurationMs": 3842,
+    "totalDurationSec": 3.84,
+    "holdExpiresAt": "2026-10-01T18:40:13.000Z",
+    "applicant": {
+      "firstName": "JITIN ",
+      "lastName": "ANAND",
+      "pan": "AYHPA2852P",
+      "mobile": "",
+      "email": ""
+    },
+    "bookedFlat": {
+      "scheme": "DDA Karmayogi Awaas Yojana 2025",
+      "locality": "1",
+      "sector": "SECTOR A1 TO A4",
+      "pocket": "POCKET 9",
+      "block": "BLOCK B",
+      "tower": "N/A",
+      "flatNo": "1308",
+      "floor": "13th Floor",
+      "holdExpiresAt": "2026-10-01T18:40:13.000Z"
+    },
+    "steps": {
+      "step1_apply": {
+        "timestamp": 1790879168115,
+        "time": "11:56:08.115 PM",
+        "message": "Scheme Apply: DDA Karmayogi Awaas Yojana 2025 (Manual Direct)"
+      },
+      "step2_form": {
+        "timestamp": 1790879170887,
+        "time": "11:56:10.887 PM",
+        "message": "Application Form Submitted"
+      },
+      "step3_locality": {
+        "timestamp": 1790879170888,
+        "time": "11:56:10.888 PM",
+        "message": "Locality Skipped via Redirect"
+      },
+      "step4_flat_select": {
+        "timestamp": 1790879171414,
+        "time": "11:56:11.414 PM",
+        "message": "Flat Selected (Target Preference [1308])"
+      },
+      "step5_captcha_submit": {
+        "timestamp": 1790879171957,
+        "time": "11:56:11.957 PM",
+        "message": "Flat Captcha Submitted: 16 + 5 = 21 (Direct Mode)"
+      },
+      "step6_payment_timer_ok": {
+        "timestamp": 1790879171957,
+        "time": "11:56:11.957 PM",
+        "message": "Payment Timer Page Reached"
+      }
+    },
+    "captchaAttempts": [
+      {
+        "attemptNumber": 1,
+        "pan": "AYHPA2852P",
+        "timestamp": 1790879171956,
+        "timeStr": "11:56:11.956 PM",
+        "base64Image": "data:image/png;base64,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",
+        "rawText": "16 + 5 = 21",
+        "answer": "21",
+        "numericAnswer": 21,
+        "durationMs": 101,
+        "status": "RESERVED",
+        "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+        "model": "native-onnx-node-v1",
+        "confidence": null,
+        "serverAlertText": null
+      }
+    ],
+    "lastCaptcha": {
+      "attemptNumber": 1,
+      "pan": "AYHPA2852P",
+      "timestamp": 1790879171956,
+      "timeStr": "11:56:11.956 PM",
+      "base64Image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAAkCAYAAABCKP5eAAAAAXNSR0IArs4c6QAACgNJREFUeF7tWnlYVNcV/83GNsgOsgkIYhA01iRaEzWNS8UlWq1o3apRUzXaRNNGrYlLrbsxCupnUKnWuNaIJo2taRpNzWajNWrjgiigrMM27MsAM/Q7F+Y5+xt4T8PnN+8fmHfvPdvv3HPPOfdJSiqrm+F4nlgLSBwAP7HYMsUcAP8I+N6I/ynj2vOf3z1y7g6ArZi4UV0KuacnJDK5aCAYAlubfguF+3ZC5uUDuZc35D6+LX/1v+mvty+kLi6C+D8RADfrdJBIpYIMYbr4zszxaCwqhCKgM5yCQuAc3AVOwaFwCmn9GxQCqZOzVZ6GYFrasRUX/oWcDSt4ZZY4OxuB7hQahqC5i3jX6SfYDXB95l3U3r4Bt5694RIeaTcDXYMGdWk30ZCfC211FSQKBfNMRWAQXMIiBXso0b8z9WW4xvRE8BvL4BQQaLds1iaSw9wcPRDQaa3Tkkgg9/WHc3AoQpevg8LHF3og9eHXVihuqihHfUY6msrVaCov4/5q6X91Kfe7ubHBSAbnrt0QnXzEbh15AW4oyEPJqWNQnznFFHZ9KhZROw7wMqjPykDp306g/NxZNGs0FucHLfg9fH8xiZeWrQlVV/6DB28vgkQuR4/Uc4Idhnhp8nJwd3YCY+vx4jB4jxgDsgM5aUNeTsvfgjyYGl9/pop5xmrrasFAJ0dQl7IN0qnfALttZgYw7Yj6+xmovXEdVd99jZrrV4Dmh5WU74SpNkMErVclJ0L991O8QkRs3An3Z/rxzrM1oWBvEkpTj8KtVx9Ebk0WREu/uOryRTxYsZj97DxnIfwnzeDoGu5Setl12z4o455m42ICK4oilrLo7D8tQ+U3/zaiL3Vxha6+jr3rsnITPAcOtsi/QZWPByt/B012ltG4wr8zXGPiWGiGVoumynJoHmQhYkMSaEzIc3f+NGiy7iFgxlwETJsjhBS3tvTjEyjY/R6nb87aP3Bj1jJfAvdxZMVtVdBsBxd+sBfFR/eDDnP3Pv3gNSQeJalHUfnVeUY75vhZyL19zPjQmZL55m/QkJfNjbk/1x8BM+fBrXtsW+Uymt+sbbKYzRLPtF+NYBEmMjEFbj16CeKjX1zw/jaUfvRXXlCFMCOHIPtwWbM3ZdE+kHkbZtLegrN4M4Ap5ktkMqMMMW3KaDSpS1gW2f1AqplelJRkLp6Duju32Bidh0G/XQKfkeOE2ICtrctIR+abr0LZqw9zOPdn+8OlaxQbK//iM+RuWgmpmxI9Uj8XnEmbhl/iEfvxBVHOdVNDsCxdlc9rH1knD8gMyie/hOlwi4njXaefwJ9kqfKRPnM8m+81bBRCl6w2I15y+jhUydtb3ksk6LJio9UwbrdkrROLPzyMwpSdRstIYQK7sUiF2pvX0emFnyF89Za2kmbzTTNfepc+eyKLRBSpKGI9ioeS0EZ1MbRlZch994+cfbmsWl0KbWU5mpuajNiHr90mLMkyVab8/KfI3dwCavDi5Wa7sqlMjfTZCdDV1rA5/pNfQedZr4lmE21NNaqvXkbN95dQffUSy2BNH7mPHzwGDmYJm/LpZyBTutvkbwlU/QKKRrfGDGKGdYvthcjtKaLpwkfIUpJGpeXDUqoMyrjeFo9Ia7R5d3D+js1cRtxt7zGzGrjocAqKDu1j9OV+Aeh+4KTNBgCfknzjDUUqBnbF11+g+vK35tOlMrjFxELZGs4pwzUNvbaSIUoU9RGLmgxUqzuFhcPtqTi4P/c8nEO68IkoeFzMbJwX4LvzpkBzPxNSpTtiT50zE/7O9LFoLC5k76mu9Ro6Eup/nEb15Yuou3eHvZd5eELZ8yfwHjWeKymEWqH0TCoKdm5h3uw7YRoDvebmNYs1d1uyWwqdOZtXobEgj6scDGWlCBE4dxFco2OEqsC7XozM3CbAFB5vTxjGslT3vi8gYl3rOdsqWvX1K7i/dEHLL6kM/pN+zbJPfUllSQPPwfEIWfy24MRFX84Z5gWGO9U1ugc69R+IgOmv8hrS2gQ6fjT5uai/l4aKr86j9oernK7BbywVJYnkE07obrYJsFHBP2sB/CfPNJKHlVRH/mxRRjoX6bGUKCj79EXE+kS7SgBLmW3c2Yu4nfBz6GqqjXi3ZafyGdbSOB0LuZtWtXSwJBJEbNghuFFjrxztBdomwIUH97CamJ6u777PEhjDJ2vZQtRc+y/3isoo6nR5vjgMcg9P9p46W1UXv4Rq304ulNP7wHmL4ffLKfbqZzTPEuiGEx4l0OqzHyE/cSNj19a+cLuUNVnUVqBtApy15DXU/O/7lj7v6fNmydPticOhraxgInjFj0Hw68sgVSgs6kHXbxkLZ7B6mh5KyGKOfGK3zoagBrwyH0V/SYZzRCSi9xwzo8HnALSgvU5AWXbapHhoqyoZ3+j9Jx9L4mWqpL3ns1WAqXt0a/wQlrTQTU1UknEopnF249Lap47YshvuvZ+1CVjZZ2eQ995abk635KNc08KSAtZ2ZeZb89l5yNcXtyWMECegxkvtrR8Y+fB1iejU93m7HVXMifbsZqsA04V05uuzmDyWDEkJSNrkkZy8UbsPwTWqu035myorkDZxODcnbM1WePQfxP22VZ8aEi4+8QGqLn2LgKmzH+kZaI8TWDq6xATRHlq2gLYKMF0RqvYkMvphqzbDY8BLRryopXl73MNLh8ik/Xa10G6M6M/tegI4e/VbHN32hk17jCDWHObYU1+2fVdswOxx6mQJaKsAZ69bznvBcHP0AK6VFrpsDbyGjGjTDhZyFooFmCGdvKSN8Bw01GZUyF7/Diq//JwtI6cn539UR0F7dTQE2irAFH7JW61dMBDzjEVzUJd2g8nhOXQEuixdY1Um03BHV5CUuIn9qU17jZK/awvUn6Sy8sdnTAL8Jk43+jqEWob5u7ei4tynjAVdcETtOihKgsV3FLQ3ChBdiwAb9petXTCQkoZ1MGXa0Skn2PdL+sf0TDV0CPpSIuyd9e3FQ9R1lBmXnDyM4uMHjWprRWAw00dXV8eaHfrGP93w0L04X1IplpB8DmArElrPonU61GfdYyWStW+wqPRJnzHO7NMVvWKGnqdK2YWSDw9xOtt7ZotlJHvo0C6lNmvlNxeMANWvpXat10vD4T9tNhS+/vaQfGxzLDkB2Z+3F80noSlh8m6fsRPZOSZzU0KTc599z0X1tP7xHjUOIYuW85H+UcepDNRkP2A3ObRzFb5+cI6I6jBHir3GaRfApqHXMPHgY0zdsPC12wX3ovn4OMZbLNAmgG3VWyUnj6Do6H6z/jBnaKkMvmMT2Edstr4ndgAjrgXaBDAfa6qN6dut6muX0agqgE5TD4VfAPvgzmtwPJwCg/lIOMZFtoCoAIssm4OcCBZwACyCETsyCQfAHRkdEWRzACyCETsyCQfAHRkdEWRzACyCETsyif8De7yTFww/61kAAAAASUVORK5CYII=",
+      "rawText": "16 + 5 = 21",
+      "answer": "21",
+      "numericAnswer": 21,
+      "durationMs": 101,
+      "status": "RESERVED",
+      "statusDetail": "Flat 1308 Reserved successfully via Direct POST",
+      "model": "native-onnx-node-v1",
+      "confidence": null,
+      "serverAlertText": null
+    },
+    "runLogs": [
+      {
+        "time": "11:56:08.115 PM",
+        "timestamp": 1790879168114,
+        "ts": 1790879168114,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P",
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.356 PM",
+        "timestamp": 1790878607356,
+        "ts": 1790878607356,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.357 PM",
+        "timestamp": 1790878607357,
+        "ts": 1790878607357,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (345ms) — Schemes page verified & session active",
+        "timestamp": 1790878607700,
+        "ts": 1790878607700,
+        "time": "11:46:47.700 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #2 OK (355ms) — Schemes page verified & session active",
+        "timestamp": 1790878663048,
+        "ts": 1790878663048,
+        "time": "11:47:43.048 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #3 OK (405ms) — Schemes page verified & session active",
+        "timestamp": 1790878735268,
+        "ts": 1790878735268,
+        "time": "11:48:55.268 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #4 OK (306ms) — Schemes page verified & session active",
+        "timestamp": 1790878793677,
+        "ts": 1790878793677,
+        "time": "11:49:53.677 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #5 OK (387ms) — Schemes page verified & session active",
+        "timestamp": 1790878851979,
+        "ts": 1790878851979,
+        "time": "11:50:51.979 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #6 OK (299ms) — Schemes page verified & session active",
+        "timestamp": 1790878914542,
+        "ts": 1790878914542,
+        "time": "11:51:54.542 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #7 OK (431ms) — Schemes page verified & session active",
+        "timestamp": 1790878967547,
+        "ts": 1790878967547,
+        "time": "11:52:47.547 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #8 OK (942ms) — Schemes page verified & session active",
+        "timestamp": 1790879028674,
+        "ts": 1790879028674,
+        "time": "11:53:48.674 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #9 OK (336ms) — Schemes page verified & session active",
+        "timestamp": 1790879082278,
+        "ts": 1790879082278,
+        "time": "11:54:42.278 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #10 OK (301ms) — Schemes page verified & session active",
+        "timestamp": 1790879137390,
+        "ts": 1790879137390,
+        "time": "11:55:37.390 PM",
+        "_stored": true
+      },
+      {
+        "time": "11:56:08.111 PM",
+        "timestamp": 1790879168111,
+        "ts": 1790879168111,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Timed Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:09.009 PM",
+        "timestamp": 1790879169009,
+        "ts": 1790879169009,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.526 PM",
+        "timestamp": 1790879170526,
+        "ts": 1790879170526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.887 PM",
+        "timestamp": 1790879170887,
+        "ts": 1790879170887,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.413 PM",
+        "timestamp": 1790879171413,
+        "ts": 1790879171413,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.419 PM",
+        "timestamp": 1790879171419,
+        "ts": 1790879171419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.421 PM",
+        "timestamp": 1790879171421,
+        "ts": 1790879171421,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.956 PM",
+        "timestamp": 1790879171956,
+        "ts": 1790879171956,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "✅ Captcha Solved: 16 + 5 = 21 (101ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.957 PM",
+        "timestamp": 1790879171957,
+        "ts": 1790879171957,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 16 + 5 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.958 PM",
+        "timestamp": 1790879171958,
+        "ts": 1790879171958,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.158 PM",
+        "timestamp": 1790879172158,
+        "ts": 1790879172158,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.597 PM",
+        "timestamp": 1790879172597,
+        "ts": 1790879172597,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted Terms & Conditions checkbox (#tandc)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.600 PM",
+        "timestamp": 1790879172600,
+        "ts": 1790879172600,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Clicking 'Click to Pay' (#btnContinue)...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.868 PM",
+        "timestamp": 1790879172868,
+        "ts": 1790879172868,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.873 PM",
+        "timestamp": 1790879172873,
+        "ts": 1790879172873,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "logs": [
+      {
+        "time": "11:56:08.115 PM",
+        "timestamp": 1790879168114,
+        "ts": 1790879168114,
+        "level": "INFO",
+        "page": "System",
+        "msg": "🖥️ Logs sent from the Electron Desktop App",
+        "pan": "AYHPA2852P",
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.356 PM",
+        "timestamp": 1790878607356,
+        "ts": 1790878607356,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Selected Gateway: Central Bank of India (CBI)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:46:47.357 PM",
+        "timestamp": 1790878607357,
+        "ts": 1790878607357,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted DDA Chargeback/Refund Policy checkbox",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #1 OK (345ms) — Schemes page verified & session active",
+        "timestamp": 1790878607700,
+        "ts": 1790878607700,
+        "time": "11:46:47.700 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #2 OK (355ms) — Schemes page verified & session active",
+        "timestamp": 1790878663048,
+        "ts": 1790878663048,
+        "time": "11:47:43.048 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #3 OK (405ms) — Schemes page verified & session active",
+        "timestamp": 1790878735268,
+        "ts": 1790878735268,
+        "time": "11:48:55.268 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #4 OK (306ms) — Schemes page verified & session active",
+        "timestamp": 1790878793677,
+        "ts": 1790878793677,
+        "time": "11:49:53.677 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #5 OK (387ms) — Schemes page verified & session active",
+        "timestamp": 1790878851979,
+        "ts": 1790878851979,
+        "time": "11:50:51.979 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #6 OK (299ms) — Schemes page verified & session active",
+        "timestamp": 1790878914542,
+        "ts": 1790878914542,
+        "time": "11:51:54.542 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "ACEPA0314R",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #7 OK (431ms) — Schemes page verified & session active",
+        "timestamp": 1790878967547,
+        "ts": 1790878967547,
+        "time": "11:52:47.547 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #8 OK (942ms) — Schemes page verified & session active",
+        "timestamp": 1790879028674,
+        "ts": 1790879028674,
+        "time": "11:53:48.674 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #9 OK (336ms) — Schemes page verified & session active",
+        "timestamp": 1790879082278,
+        "ts": 1790879082278,
+        "time": "11:54:42.278 PM",
+        "_stored": true
+      },
+      {
+        "level": "INFO",
+        "pan": "AYHPA2852P",
+        "page": "Heartbeat",
+        "msg": "💓 Ping #10 OK (301ms) — Schemes page verified & session active",
+        "timestamp": 1790879137390,
+        "ts": 1790879137390,
+        "time": "11:55:37.390 PM",
+        "_stored": true
+      },
+      {
+        "time": "11:56:08.111 PM",
+        "timestamp": 1790879168111,
+        "ts": 1790879168111,
+        "level": "ROUTE",
+        "page": "Schemes",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step1_apply]: Scheme Apply: KARMAYOGI (Timed Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:09.009 PM",
+        "timestamp": 1790879169009,
+        "ts": 1790879169009,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.526 PM",
+        "timestamp": 1790879170526,
+        "ts": 1790879170526,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ Fast-Pass Active: Skipping 25+ DOM field inputs for prefilled form",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.887 PM",
+        "timestamp": 1790879170887,
+        "ts": 1790879170887,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step2_form]: Application Form Submitted",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step3_locality]: Locality Skipped via Direct URL Jump",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:10.888 PM",
+        "timestamp": 1790879170888,
+        "ts": 1790879170888,
+        "level": "ROUTE",
+        "page": "Application Form",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Navigating to https://eservices.dda.org.in/user/step2_form/oQAYQ/Vd6rd/wdOqQ/vnamQ/vEyxv/QVRpQ",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Flat selection page loaded (/user/step2_form/*). Target flats: [1308, 1303, 1508]",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.334 PM",
+        "timestamp": 1790879171334,
+        "ts": 1790879171334,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_page_load]: Flat Selection Page Loaded",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.413 PM",
+        "timestamp": 1790879171413,
+        "ts": 1790879171413,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step4_flat_select]: Flat Selected: 1308 (Target Match)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.419 PM",
+        "timestamp": 1790879171419,
+        "ts": 1790879171419,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [DIRECT POST] Initiating headless reservation for 1308...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.421 PM",
+        "timestamp": 1790879171421,
+        "ts": 1790879171421,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Target Flat 1308 (ID: L2rlk) identified. Preparing direct submission...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.956 PM",
+        "timestamp": 1790879171956,
+        "ts": 1790879171956,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "✅ Captcha Solved: 16 + 5 = 21 (101ms, Attempt 1)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.957 PM",
+        "timestamp": 1790879171957,
+        "ts": 1790879171957,
+        "level": "ROUTE",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step5_captcha_submit]: Flat Captcha Submitted: 16 + 5 = 21 (Direct Mode)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:11.958 PM",
+        "timestamp": 1790879171958,
+        "ts": 1790879171958,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🚀 Sending DIRECT POST to /user/getflatlayoutdetails...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.158 PM",
+        "timestamp": 1790879172158,
+        "ts": 1790879172158,
+        "level": "DIRECT",
+        "page": "Flat Select",
+        "pan": "AYHPA2852P",
+        "msg": "🎉 SUCCESS! Flat 1308 Reserved (15-min hold secured)!",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.597 PM",
+        "timestamp": 1790879172597,
+        "ts": 1790879172597,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Accepted Terms & Conditions checkbox (#tandc)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.600 PM",
+        "timestamp": 1790879172600,
+        "ts": 1790879172600,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "⚡ [Fast Payment] Clicking 'Click to Pay' (#btnContinue)...",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.868 PM",
+        "timestamp": 1790879172868,
+        "ts": 1790879172868,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "🎯 Landed on Payment Timer page (/user/getlayout/*)",
+        "extra": null,
+        "_stored": true
+      },
+      {
+        "time": "11:56:12.873 PM",
+        "timestamp": 1790879172873,
+        "ts": 1790879172873,
+        "level": "ROUTE",
+        "page": "Payment Timer",
+        "pan": "AYHPA2852P",
+        "msg": "📍 Milestone [step6_payment_timer_ok]: Payment Timer Page Reached",
+        "extra": null,
+        "_stored": true
+      }
+    ],
+    "completedAt": "2026-10-01T18:26:12.881Z",
+    "createdAt": "2026-10-01T18:26:12.881Z",
+    "client": "DDA-Desktop-Electron"
+  }
+}
